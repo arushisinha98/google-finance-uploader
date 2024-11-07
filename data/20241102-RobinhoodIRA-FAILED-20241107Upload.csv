@@ -1,0 +1,35 @@
+Activity Date,Process Date,Settle Date,Instrument,Description,Trans Code,Quantity,Price,Amount,Delta Quantity,error
+11/21/2023,11/21/2023,11/21/2023,VOO,"Vanguard S&P 500 ETF
+CUSIP: 922908363",ACATI,6.0,,,6,'float' object has no attribute 'replace'
+07/12/2023,07/12/2023,07/12/2023,PBR.A,"Petrobras
+CUSIP: 71654V101",ACATI,50.0,,,50,'float' object has no attribute 'replace'
+3/27/2023,3/27/2023,3/27/2023,VOO,"Vanguard S&P 500 ETF
+CUSIP: 922908363",ACATI,43.0,,,43,'float' object has no attribute 'replace'
+3/27/2023,3/27/2023,3/27/2023,XLRE,"Real Estate Select Sector SPDR ETF
+CUSIP: 81369Y860",ACATI,60.0,,,60,'float' object has no attribute 'replace'
+3/27/2023,3/27/2023,3/27/2023,IJR,"iShares S&P SmallCap 600 ETF
+CUSIP: 464287804",ACATI,20.0,,,20,'float' object has no attribute 'replace'
+3/27/2023,3/27/2023,3/27/2023,TLT,"iShares 20+ Year Treasury Bond ETF
+CUSIP: 464287432",ACATI,12.0,,,12,'float' object has no attribute 'replace'
+3/27/2023,3/27/2023,3/27/2023,AVEM,"Avantis Emerging Markets Equity
+CUSIP: 025072604",ACATI,23.0,,,23,'float' object has no attribute 'replace'
+3/27/2023,3/27/2023,3/27/2023,ARKX,"ARK Space Exploration & Innovation
+CUSIP: 00214Q807",ACATI,27.0,,,27,'float' object has no attribute 'replace'
+3/27/2023,3/27/2023,3/27/2023,ARKF,"ARK Fintech Innovation
+CUSIP: 00214Q708",ACATI,8.0,,,8,'float' object has no attribute 'replace'
+3/27/2023,3/27/2023,3/27/2023,ARKW,"ARK Next Generation Internet
+CUSIP: 00214Q401",ACATI,5.0,,,5,'float' object has no attribute 'replace'
+3/27/2023,3/27/2023,3/27/2023,ARKG,"ARK Genomic Revolution ETF
+CUSIP: 00214Q302",ACATI,5.0,,,5,'float' object has no attribute 'replace'
+3/27/2023,3/27/2023,3/27/2023,ARKQ,"ARK Autonomous Technology & Robotics
+CUSIP: 00214Q203",ACATI,7.0,,,7,'float' object has no attribute 'replace'
+3/27/2023,3/27/2023,3/27/2023,ARKK,"ARK Innovation ETF
+CUSIP: 00214Q104",ACATI,9.0,,,9,'float' object has no attribute 'replace'
+3/22/2023,3/22/2023,3/22/2023,PBR.A,"Petrobras
+CUSIP: 71654V101",ACATI,10.0,,,10,'float' object has no attribute 'replace'
+3/22/2023,3/22/2023,3/22/2023,MCHI,"iShares MSCI China ETF
+CUSIP: 46429B671",ACATI,20.0,,,20,'float' object has no attribute 'replace'
+3/22/2023,3/22/2023,3/22/2023,INDA,"iShares MSCI India ETF
+CUSIP: 46429B598",ACATI,31.0,,,31,'float' object has no attribute 'replace'
+,,,,,,,,,,NaTType does not support strftime
+,,,,,,,,,The data provided is for informational purposes only. Please consult a professional tax service or personal tax advisor if you need instructions on how to calculate cost basis or questions regarding your specific tax situation. Reminder: This data does not include Robinhood Crypto or Robinhood Spending activity.,could not convert string to float: 'The data provided is for informational purposes only. Please consult a professional tax service or personal tax advisor if you need instructions on how to calculate cost basis or questions regarding your specific tax situation. Reminder: This data does not include Robinhood Crypto or Robinhood Spending activity.'

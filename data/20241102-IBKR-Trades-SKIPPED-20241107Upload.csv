@@ -1,0 +1,27 @@
+Account,Trades,Header,DataDiscriminator,Asset Category,Currency,Symbol,Date,Quantity,T Price,C Price,Proceeds,Comm/Fee,Basis,Realized P/L,MTM P/L,Code,Unnamed: 17,Exchange Symbol,reason
+Interactive Brokers,Trades,Data,Order,Forex,SGD,USD.SGD,08/01/2024,-0.91161124,1.32795,,1.210574146,0.0,,,-0.002872,,,USD.SGD SG,Negative or zero quantity
+Interactive Brokers,Trades,Data,Order,Forex,HKD,SGD.HKD,16/06/2024,-654,5.77095,,3774.2013,0.0,,,-0.723497,AFx,,SGD.HKD HK,Negative or zero quantity
+Interactive Brokers,Trades,Data,Order,Forex,HKD,SGD.HKD,16/06/2024,-4,5.7708,,23.0832,0.0,,,-0.004529,AFx,,SGD.HKD HK,Negative or zero quantity
+Interactive Brokers,Trades,Data,Order,Forex,HKD,SGD.HKD,28/06/2024,-4,5.745,,22.98,0.0,,,-0.009293,AFx,,SGD.HKD HK,Negative or zero quantity
+Interactive Brokers,Trades,Data,Order,Forex,HKD,SGD.HKD,28/06/2024,-648,5.74565,,3723.1812,0.0,,,-1.432353,AFx,,SGD.HKD HK,Negative or zero quantity
+Interactive Brokers,Trades,Data,Order,Forex,HKD,SGD.HKD,28/06/2024,-0.44207653,5.75677245,,2.544934,0.0,,,-0.000124,,,SGD.HKD HK,Negative or zero quantity
+Interactive Brokers,Trades,Data,Order,Forex,HKD,SGD.HKD,01/07/2024,-4,5.75155,,23.0062,0.0,,,-0.007274,AFx,,SGD.HKD HK,Negative or zero quantity
+Interactive Brokers,Trades,Data,Order,Forex,HKD,SGD.HKD,01/07/2024,-640,5.75205,,3681.312,0.0,,,-1.108302,AFx,,SGD.HKD HK,Negative or zero quantity
+Interactive Brokers,Trades,Data,Order,Forex,HKD,SGD.HKD,02/07/2024,-0.07167758,5.76023877,,0.412879998,0.0,,,-2.3e-05,,,SGD.HKD HK,Negative or zero quantity
+Interactive Brokers,Trades,Data,Order,Forex,HKD,SGD.HKD,02/07/2024,0,5.7622,,6e-09,0.0,,,0.0,,,SGD.HKD HK,Negative or zero quantity
+Interactive Brokers,Trades,Data,Order,Forex,HKD,SGD.HKD,02/07/2024,0,5.7622,,-6e-09,0.0,,,0.0,,,SGD.HKD HK,Negative or zero quantity
+Interactive Brokers,Trades,Data,Order,Forex,HKD,SGD.HKD,03/07/2024,0,5.76641583,,6e-09,0.0,,,0.0,,,SGD.HKD HK,Negative or zero quantity
+Interactive Brokers,Trades,Data,Order,Forex,HKD,SGD.HKD,23/07/2024,-4,5.80205,,23.2082,0.0,,,-0.001227,AFx,,SGD.HKD HK,Negative or zero quantity
+Interactive Brokers,Trades,Data,Order,Forex,HKD,SGD.HKD,23/07/2024,-638,5.8025,,3701.995,0.0,,,-0.146262,AFx,,SGD.HKD HK,Negative or zero quantity
+Interactive Brokers,Trades,Data,Order,Forex,HKD,SGD.HKD,23/07/2024,-0.2982574,5.80205886,,1.730507002,0.0,,,-9.1e-05,,,SGD.HKD HK,Negative or zero quantity
+Interactive Brokers,Trades,Data,Order,Forex,SGD,USD.SGD,19/02/2024,-0.01553427,1.34575,,0.020905247,0.0,,,3.3e-05,,,USD.SGD SG,Negative or zero quantity
+Interactive Brokers,Trades,Data,Order,Forex,SGD,USD.SGD,26/02/2024,-0.91292657,1.34435,,1.227292834,0.0,,,0.00032,,,USD.SGD SG,Negative or zero quantity
+Interactive Brokers,Trades,Data,Order,Forex,SGD,USD.SGD,04/03/2024,-0.91593477,1.34345,,1.230512567,0.0,,,0.000596,,,USD.SGD SG,Negative or zero quantity
+Interactive Brokers,Trades,Data,Order,Forex,SGD,USD.SGD,11/03/2024,-0.91632585,1.33035,,1.219034096,0.0,,,-0.001787,,,USD.SGD SG,Negative or zero quantity
+Interactive Brokers,Trades,Data,Order,Forex,SGD,USD.SGD,18/03/2024,-0.9108561,1.33915,,1.219772946,0.0,,,-0.002596,,,USD.SGD SG,Negative or zero quantity
+Interactive Brokers,Trades,Data,Order,Forex,SGD,USD.SGD,25/03/2024,-0.91093274,1.34595,,1.226069921,0.0,,,0.000228,,,USD.SGD SG,Negative or zero quantity
+Interactive Brokers,Trades,Data,Order,Forex,SGD,USD.SGD,01/04/2024,-0.91298546,1.35225,,1.234584595,0.0,,,0.000776,,,USD.SGD SG,Negative or zero quantity
+Interactive Brokers,Trades,Data,Order,Forex,SGD,USD.SGD,08/04/2024,-0.91497564,1.34735,,1.232792433,0.0,,,0.002333,,,USD.SGD SG,Negative or zero quantity
+Interactive Brokers,Trades,Data,Order,Forex,SGD,USD.SGD,15/04/2024,-0.91274498,1.36285,,1.243934489,0.0,,,-0.002054,,,USD.SGD SG,Negative or zero quantity
+Interactive Brokers,Trades,Data,Order,Forex,SGD,USD.SGD,22/04/2024,-0.9165737,1.36195,,1.248327555,0.0,,,0.000505,,,USD.SGD SG,Negative or zero quantity
+Interactive Brokers,Trades,Data,Order,Forex,SGD,USD.SGD,14/06/2024,-0.0014,1.35338155,,0.001894734,0.0,,,0.0,,,USD.SGD SG,Negative or zero quantity

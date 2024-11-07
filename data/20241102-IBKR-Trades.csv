@@ -1,0 +1,132 @@
+﻿Account,Trades,Header,DataDiscriminator,Asset Category,Currency,Symbol,Date,Quantity,T Price,C Price,Proceeds,Comm/Fee,Basis,Realized P/L,MTM P/L,Code,,Exchange Symbol
+Interactive Brokers,Trades,Data,Order,Stocks,SGD,A17U,11/04/2023,100,2.84,2.84,-284,-2.7,286.7,0,0,O,,A17U SG
+Interactive Brokers,Trades,Data,Order,Stocks,SGD,A17U,15/06/2023,100,2.74,2.76,-274,-2.7,276.7,0,2,O,,A17U SG
+Interactive Brokers,Trades,Data,Order,Stocks,SGD,A17U,07/02/2024,200,2.8,2.81,-560,-2.725,562.725,0,2,O,,A17U SG
+Interactive Brokers,Trades,Data,Order,Stocks,SGD,D05,28/02/2023,100,34.41,34.17,-3441,-2.973024,3443.973024,0,-24,O,,D05 SG
+Interactive Brokers,Trades,Data,Order,Stocks,SGD,D05,11/05/2023,100,30.75,30.66,-3075,-2.7,3077.7,0,-9,O,,D05 SG
+Interactive Brokers,Trades,Data,Order,Stocks,SGD,G13,14/05/2023,100,1.09,1.03,-109,-2.7,111.7,0,-6,O,,G13 SG
+Interactive Brokers,Trades,Data,Order,Stocks,SGD,G13,19/06/2023,100,0.96,0.955,-96,-2.7,98.7,0,-0.5,O,,G13 SG
+Interactive Brokers,Trades,Data,Order,Stocks,SGD,G13,13/08/2023,200,0.945,0.945,-189,-2.7,191.7,0,0,O,,G13 SG
+Interactive Brokers,Trades,Data,Order,Stocks,SGD,S68,11/05/2023,100,9.45,9.46,-945,-2.7,947.7,0,1,O,,S68 SG
+Interactive Brokers,Trades,Data,Order,Stocks,SGD,S68,06/07/2023,100,9.32,9.28,-932,-2.7,934.7,0,-4,O,,S68 SG
+Interactive Brokers,Trades,Data,Order,Stocks,SGD,S68,21/08/2023,200,9.4,9.44,-1880,-2.7,1882.7,0,8,O,,S68 SG
+Interactive Brokers,Trades,Data,Order,Stocks,SGD,S68,05/02/2024,100,9.4,9.35,-940,-2.725,942.725,0,-5,O,,S68 SG
+Interactive Brokers,Trades,Data,Order,Stocks,SGD,Z74,28/02/2023,500,2.39,2.37,-1195,-2.7,1197.7,0,-10,O,,Z74 SG
+Interactive Brokers,Trades,Data,Order,Stocks,SGD,Z74,16/11/2023,500,2.33,2.33,-1165,-2.7,1167.7,0,0,O,,Z74 SG
+Interactive Brokers,Trades,Data,Order,Stocks,SGD,Z74,05/02/2024,200,2.36,2.34,-472,-2.725,474.725,0,-4,O,,Z74 SG
+Interactive Brokers,Trades,Data,Order,Stocks,USD,BABA,04/01/2024,2.6583,75.235447,74.66,-199.9983888,-1.09,201.0883888,0,-1.5297,O,RI,BABA
+Interactive Brokers,Trades,Data,Order,Stocks,USD,BABA,11/01/2024,2.7677,72.26193,72.38,-199.9993437,-1.09,201.0893437,0,0.3268,O,RI,BABA
+Interactive Brokers,Trades,Data,Order,Stocks,USD,BABA,18/01/2024,2.9204,68.483333,68.05,-199.9987257,-1.09,201.0887257,0,-1.2655,O,RI,BABA
+Interactive Brokers,Trades,Data,Order,Stocks,USD,BABA,25/01/2024,2.6897,74.355476,73.85,-199.9939238,-1.09,201.0839238,0,-1.3596,O,RI,BABA
+Interactive Brokers,Trades,Data,Order,Stocks,USD,BABA,01/02/2024,2.7485,72.764375,72.46,-199.9928847,-1.09,201.0828847,0,-0.8366,O,RI,BABA
+Interactive Brokers,Trades,Data,Order,Stocks,USD,BABA,08/02/2024,2.8053,71.291786,70.78,-199.9948473,-1.09,201.0848473,0,-1.4357,O,RI,BABA
+Interactive Brokers,Trades,Data,Order,Forex,SGD,USD.SGD,04/01/2024,200,1.32935,,-265.87,0,,,0.01,L,,USD.SGD SG
+Interactive Brokers,Trades,Data,Order,Forex,SGD,USD.SGD,04/01/2024,2,1.32935,,-2.6587,0,,,0.0001,L,,USD.SGD SG
+Interactive Brokers,Trades,Data,Order,Forex,SGD,USD.SGD,08/01/2024,-0.91161124,1.32795,,1.210574146,0,,,-0.002872,,,USD.SGD SG
+Interactive Brokers,Trades,Data,Order,Forex,SGD,USD.SGD,11/01/2024,200,1.3315,,-266.3,0,,,-0.12,L,,USD.SGD SG
+Interactive Brokers,Trades,Data,Order,Forex,SGD,USD.SGD,11/01/2024,2,1.33125,,-2.6625,0,,,-0.0007,L,,USD.SGD SG
+Interactive Brokers,Trades,Data,Order,Forex,SGD,USD.SGD,15/01/2024,"1,000",1.3344,,-1334.4,-2.6632,,,-1,,,USD.SGD SG
+Interactive Brokers,Trades,Data,Order,Stocks,HKD,2801,16/06/2024,200,18.86,18.88,-3772,-19.727502,3791.727502,0,4,O,,2801 HK
+Interactive Brokers,Trades,Data,Order,Stocks,HKD,2801,27/06/2024,200,18.62,18.45,-3724,-19.726134,3743.726134,0,-34,O,,2801 HK
+Interactive Brokers,Trades,Data,Order,Stocks,HKD,2801,01/07/2024,200,18.4,18.46,-3680,-19.72488,3699.72488,0,12,O,,2801 HK
+Interactive Brokers,Trades,Data,Order,Stocks,HKD,2801,23/07/2024,200,18.51,18.36,-3702,-19.725507,3721.725507,0,-30,O,,2801 HK
+Interactive Brokers,Trades,Data,Order,Stocks,SGD,A17U,07/02/2024,200,2.8,2.81,-560,-2.725,562.725,0,2,O,,A17U SG
+Interactive Brokers,Trades,Data,Order,Stocks,SGD,A17U,14/04/2024,100,2.67,2.67,-267,-2.725,269.725,0,0,O,,A17U SG
+Interactive Brokers,Trades,Data,Order,Stocks,SGD,A17U,02/05/2024,100,2.56,2.59,-256,-2.725,258.725,0,3,O,,A17U SG
+Interactive Brokers,Trades,Data,Order,Stocks,SGD,A17U,27/06/2024,100,2.54,2.56,-254,-2.725,256.725,0,2,O,,A17U SG
+Interactive Brokers,Trades,Data,Order,Stocks,SGD,AJBU,14/04/2024,100,1.71,1.69,-171,-2.725,173.725,0,-2,O,,AJBU SG
+Interactive Brokers,Trades,Data,Order,Stocks,SGD,AJBU,15/04/2024,300,1.68,1.68,-504,-2.725,506.725,0,0,O,,AJBU SG
+Interactive Brokers,Trades,Data,Order,Stocks,SGD,D05,12/08/2024,100,34,33.98,-3400,-2.9648,3402.9648,0,-2,O,,D05 SG
+Interactive Brokers,Trades,Data,Order,Stocks,SGD,D05,04/09/2024,100,36.48,36.65,-3648,-3.181056,3651.181056,0,17,O,,D05 SG
+Interactive Brokers,Trades,Data,Order,Stocks,SGD,G13,14/04/2024,100,0.905,0.905,-90.5,-2.725,93.225,0,0,O,,G13 SG
+Interactive Brokers,Trades,Data,Order,Stocks,SGD,G13,17/07/2024,200,0.865,0.865,-173,-2.725,175.725,0,0,O,,G13 SG
+Interactive Brokers,Trades,Data,Order,Stocks,SGD,G13,23/07/2024,200,0.855,0.855,-171,-2.725,173.725,0,0,O,,G13 SG
+Interactive Brokers,Trades,Data,Order,Stocks,SGD,M44U,14/04/2024,100,1.44,1.43,-144,-2.725,146.725,0,-1,O,,M44U SG
+Interactive Brokers,Trades,Data,Order,Stocks,SGD,M44U,16/04/2024,500,1.41,1.4,-705,-2.725,707.725,0,-5,O,,M44U SG
+Interactive Brokers,Trades,Data,Order,Stocks,SGD,M44U,17/07/2024,100,1.36,1.37,-136,-2.725,138.725,0,1,O,,M44U SG
+Interactive Brokers,Trades,Data,Order,Stocks,SGD,N2IU,01/05/2024,300,1.23,1.26,-369,-2.725,371.725,0,9,O,P,N2IU SG
+Interactive Brokers,Trades,Data,Order,Stocks,SGD,S68,05/02/2024,100,9.4,9.35,-940,-2.725,942.725,0,-5,O,,S68 SG
+Interactive Brokers,Trades,Data,Order,Stocks,SGD,S68,15/04/2024,100,9.02,8.94,-902,-2.725,904.725,0,-8,O,,S68 SG
+Interactive Brokers,Trades,Data,Order,Stocks,SGD,S68,18/09/2024,100,11.13,11.22,-1113,-2.725,1115.725,0,9,O,,S68 SG
+Interactive Brokers,Trades,Data,Order,Stocks,SGD,YYY,02/09/2024,500,1.402,1.411,-701,-2.725,703.725,0,4.5,O,,YYY SG
+Interactive Brokers,Trades,Data,Order,Stocks,SGD,YYY,27/10/2024,300,1.695,1.702,-508.5,-2.725,511.225,0,2.1,O,,YYY SG
+Interactive Brokers,Trades,Data,Order,Stocks,SGD,Z74,05/02/2024,200,2.36,2.34,-472,-2.725,474.725,0,-4,O,,Z74 SG
+Interactive Brokers,Trades,Data,Order,Stocks,SGD,Z74,26/08/2024,200,2.87,2.89,-574,-2.725,576.725,0,4,O,,Z74 SG
+Interactive Brokers,Trades,Data,Order,Stocks,USD,ASML,24/10/2024,2,708,710.81,-1416,-1.09010464,1417.090105,0,5.62,O,,ASML
+Interactive Brokers,Trades,Data,Order,Stocks,USD,BABA,18/01/2024,2.9204,68.483333,68.05,-199.9987257,-1.09,201.0887257,0,-1.2655,O,RI,BABA
+Interactive Brokers,Trades,Data,Order,Stocks,USD,BABA,25/01/2024,2.6897,74.355476,73.85,-199.9939238,-1.09,201.0839238,0,-1.3596,O,RI,BABA
+Interactive Brokers,Trades,Data,Order,Stocks,USD,BABA,01/02/2024,2.7485,72.764375,72.46,-199.9928847,-1.09,201.0828847,0,-0.8366,O,RI,BABA
+Interactive Brokers,Trades,Data,Order,Stocks,USD,BABA,08/02/2024,2.8053,71.291786,70.78,-199.9948473,-1.09,201.0848473,0,-1.4357,O,RI,BABA
+Interactive Brokers,Trades,Data,Order,Stocks,USD,BABA,15/02/2024,2.7198,73.532885,73.82,-199.9947406,-1.09,201.0847406,0,0.7809,O,RI,BABA
+Interactive Brokers,Trades,Data,Order,Stocks,USD,BABA,22/02/2024,2.6425,75.684796,76.12,-199.9970734,-1.09,201.0870734,0,1.15,O,RI,BABA
+Interactive Brokers,Trades,Data,Order,Stocks,USD,BABA,29/02/2024,2.6888,74.380417,74.03,-199.9940652,-1.09,201.0840652,0,-0.9422,O,RI,BABA
+Interactive Brokers,Trades,Data,Order,Stocks,USD,BABA,07/03/2024,2.7628,72.388039,72.54,-199.9936741,-1.09,201.0836741,0,0.4198,O,RI,BABA
+Interactive Brokers,Trades,Data,Order,Stocks,USD,BABA,14/03/2024,2.6937,74.247,73.4,-199.9991439,-1.09,201.0891439,0,-2.2816,O,RI,BABA
+Interactive Brokers,Trades,Data,Order,Stocks,USD,BABA,21/03/2024,2.6924,74.282821,73.83,-199.9990673,-1.09,201.0890673,0,-1.2192,O,RI,BABA
+Interactive Brokers,Trades,Data,Order,Stocks,USD,BABA,28/03/2024,2.7636,72.368293,72.36,-199.9970145,-1.09,201.0870145,0,-0.0229,O,RI,BABA
+Interactive Brokers,Trades,Data,Order,Stocks,USD,BABA,04/04/2024,2.7422,72.932326,71.95,-199.9950244,-1.09,201.0850244,0,-2.6937,O,RI,BABA
+Interactive Brokers,Trades,Data,Order,Stocks,USD,BABA,11/04/2024,2.6718,74.854875,74.85,-199.997255,-1.09,201.087255,0,-0.013,O,RI,BABA
+Interactive Brokers,Trades,Data,Order,Stocks,USD,BABA,18/04/2024,2.8898,69.206667,68.88,-199.9934263,-1.09,201.0834263,0,-0.944,O,RI,BABA
+Interactive Brokers,Trades,Data,Order,Stocks,USD,BABA,14/06/2024,1,73.86,73.35,-73.86,-0.805074,74.665074,0,-0.51,O,,BABA
+Interactive Brokers,Trades,Data,Order,Stocks,USD,BABA,02/07/2024,7,72.1,73.68,-504.7,-1.09,505.79,0,11.06,O,,BABA
+Interactive Brokers,Trades,Data,Order,Stocks,USD,BABA,17/07/2024,9,77.68,77.04,-699.12,-1.09,700.21,0,-5.76,O,,BABA
+Interactive Brokers,Trades,Data,Order,Forex,HKD,SGD.HKD,16/06/2024,-654,5.77095,,3774.2013,0,,,-0.723497,AFx,,SGD.HKD HK
+Interactive Brokers,Trades,Data,Order,Forex,HKD,SGD.HKD,16/06/2024,-4,5.7708,,23.0832,0,,,-0.004529,AFx,,SGD.HKD HK
+Interactive Brokers,Trades,Data,Order,Forex,HKD,SGD.HKD,17/06/2024,0.87962065,5.77885479,,-5.083200001,0,,,-0.00023,,,SGD.HKD HK
+Interactive Brokers,Trades,Data,Order,Forex,HKD,SGD.HKD,17/06/2024,0.08198653,5.77897374,,-0.473797998,0,,,-0.000023,,,SGD.HKD HK
+Interactive Brokers,Trades,Data,Order,Forex,HKD,SGD.HKD,28/06/2024,-4,5.745,,22.98,0,,,-0.009293,AFx,,SGD.HKD HK
+Interactive Brokers,Trades,Data,Order,Forex,HKD,SGD.HKD,28/06/2024,-648,5.74565,,3723.1812,0,,,-1.432353,AFx,,SGD.HKD HK
+Interactive Brokers,Trades,Data,Order,Forex,HKD,SGD.HKD,28/06/2024,-0.44207653,5.75677245,,2.544934,0,,,-0.000124,,,SGD.HKD HK
+Interactive Brokers,Trades,Data,Order,Forex,HKD,SGD.HKD,28/06/2024,0.86462776,5.75970404,,-4.980000002,0,,,-0.000199,,,SGD.HKD HK
+Interactive Brokers,Trades,Data,Order,Forex,HKD,SGD.HKD,01/07/2024,-4,5.75155,,23.0062,0,,,-0.007274,AFx,,SGD.HKD HK
+Interactive Brokers,Trades,Data,Order,Forex,HKD,SGD.HKD,01/07/2024,-640,5.75205,,3681.312,0,,,-1.108302,AFx,,SGD.HKD HK
+Interactive Brokers,Trades,Data,Order,Forex,HKD,SGD.HKD,02/07/2024,-0.07167758,5.76023877,,0.412879998,0,,,-0.000023,,,SGD.HKD HK
+Interactive Brokers,Trades,Data,Order,Forex,HKD,SGD.HKD,02/07/2024,0.86864478,5.76323039,,-5.0062,0,,,-0.000181,,,SGD.HKD HK
+Interactive Brokers,Trades,Data,Order,Forex,HKD,SGD.HKD,02/07/2024,0,5.7622,,0.000000006,0,,,0,,,SGD.HKD HK
+Interactive Brokers,Trades,Data,Order,Forex,HKD,SGD.HKD,02/07/2024,0,5.7622,,-0.000000006,0,,,0,,,SGD.HKD HK
+Interactive Brokers,Trades,Data,Order,Forex,HKD,SGD.HKD,03/07/2024,0,5.76641583,,0.000000006,0,,,0,,,SGD.HKD HK
+Interactive Brokers,Trades,Data,Order,Forex,HKD,SGD.HKD,23/07/2024,-4,5.80205,,23.2082,0,,,-0.001227,AFx,,SGD.HKD HK
+Interactive Brokers,Trades,Data,Order,Forex,HKD,SGD.HKD,23/07/2024,-638,5.8025,,3701.995,0,,,-0.146262,AFx,,SGD.HKD HK
+Interactive Brokers,Trades,Data,Order,Forex,HKD,SGD.HKD,23/07/2024,0.89716049,5.80520437,,-5.208200003,0,,,-0.000213,,,SGD.HKD HK
+Interactive Brokers,Trades,Data,Order,Forex,HKD,SGD.HKD,23/07/2024,-0.2982574,5.80205886,,1.730507002,0,,,-0.000091,,,SGD.HKD HK
+Interactive Brokers,Trades,Data,Order,Forex,SGD,USD.SGD,15/02/2024,4.53,1.3457,,-6.096021,0,,,-0.000453,L,,USD.SGD SG
+Interactive Brokers,Trades,Data,Order,Forex,SGD,USD.SGD,19/02/2024,-0.01553427,1.34575,,0.020905247,0,,,0.000033,,,USD.SGD SG
+Interactive Brokers,Trades,Data,Order,Forex,SGD,USD.SGD,22/02/2024,200,1.343,,-268.6,0,,,0,L,,USD.SGD SG
+Interactive Brokers,Trades,Data,Order,Forex,SGD,USD.SGD,22/02/2024,2,1.34305,,-2.6861,0,,,-0.0001,L,,USD.SGD SG
+Interactive Brokers,Trades,Data,Order,Forex,SGD,USD.SGD,26/02/2024,-0.91292657,1.34435,,1.227292834,0,,,0.00032,,,USD.SGD SG
+Interactive Brokers,Trades,Data,Order,Forex,SGD,USD.SGD,29/02/2024,200,1.3457,,-269.14,0,,,-0.02,L,,USD.SGD SG
+Interactive Brokers,Trades,Data,Order,Forex,SGD,USD.SGD,29/02/2024,2,1.34565,,-2.6913,0,,,-0.0001,L,,USD.SGD SG
+Interactive Brokers,Trades,Data,Order,Forex,SGD,USD.SGD,04/03/2024,-0.91593477,1.34345,,1.230512567,0,,,0.000596,,,USD.SGD SG
+Interactive Brokers,Trades,Data,Order,Forex,SGD,USD.SGD,07/03/2024,200,1.33335,,-266.67,0,,,-0.03,L,,USD.SGD SG
+Interactive Brokers,Trades,Data,Order,Forex,SGD,USD.SGD,07/03/2024,2,1.33335,,-2.6667,0,,,-0.0003,L,,USD.SGD SG
+Interactive Brokers,Trades,Data,Order,Forex,SGD,USD.SGD,11/03/2024,-0.91632585,1.33035,,1.219034096,0,,,-0.001787,,,USD.SGD SG
+Interactive Brokers,Trades,Data,Order,Forex,SGD,USD.SGD,14/03/2024,200,1.33615,,-267.23,0,,,-0.03,L,,USD.SGD SG
+Interactive Brokers,Trades,Data,Order,Forex,SGD,USD.SGD,14/03/2024,2,1.33615,,-2.6723,0,,,-0.0003,L,,USD.SGD SG
+Interactive Brokers,Trades,Data,Order,Forex,SGD,USD.SGD,18/03/2024,-0.9108561,1.33915,,1.219772946,0,,,-0.002596,,,USD.SGD SG
+Interactive Brokers,Trades,Data,Order,Forex,SGD,USD.SGD,21/03/2024,200,1.34405,,-268.81,0,,,-0.03,L,,USD.SGD SG
+Interactive Brokers,Trades,Data,Order,Forex,SGD,USD.SGD,21/03/2024,2,1.34405,,-2.6881,0,,,-0.0003,L,,USD.SGD SG
+Interactive Brokers,Trades,Data,Order,Forex,SGD,USD.SGD,25/03/2024,-0.91093274,1.34595,,1.226069921,0,,,0.000228,,,USD.SGD SG
+Interactive Brokers,Trades,Data,Order,Forex,SGD,USD.SGD,28/03/2024,200,1.3502,,-270.04,0,,,0.02,L,,USD.SGD SG
+Interactive Brokers,Trades,Data,Order,Forex,SGD,USD.SGD,28/03/2024,2,1.3501,,-2.7002,0,,,0.0004,L,,USD.SGD SG
+Interactive Brokers,Trades,Data,Order,Forex,SGD,USD.SGD,01/04/2024,-0.91298546,1.35225,,1.234584595,0,,,0.000776,,,USD.SGD SG
+Interactive Brokers,Trades,Data,Order,Forex,SGD,USD.SGD,04/04/2024,200,1.3472,,-269.44,0,,,0.24,L,,USD.SGD SG
+Interactive Brokers,Trades,Data,Order,Forex,SGD,USD.SGD,04/04/2024,2,1.3472,,-2.6944,0,,,0.0024,L,,USD.SGD SG
+Interactive Brokers,Trades,Data,Order,Forex,SGD,USD.SGD,08/04/2024,-0.91497564,1.34735,,1.232792433,0,,,0.002333,,,USD.SGD SG
+Interactive Brokers,Trades,Data,Order,Forex,SGD,USD.SGD,11/04/2024,200,1.35265,,-270.53,0,,,0.07,L,,USD.SGD SG
+Interactive Brokers,Trades,Data,Order,Forex,SGD,USD.SGD,11/04/2024,2,1.35265,,-2.7053,0,,,0.0007,L,,USD.SGD SG
+Interactive Brokers,Trades,Data,Order,Forex,SGD,USD.SGD,15/04/2024,-0.91274498,1.36285,,1.243934489,0,,,-0.002054,,,USD.SGD SG
+Interactive Brokers,Trades,Data,Order,Forex,SGD,USD.SGD,18/04/2024,200,1.3624,,-272.48,0,,,-0.02,L,,USD.SGD SG
+Interactive Brokers,Trades,Data,Order,Forex,SGD,USD.SGD,18/04/2024,2,1.3624,,-2.7248,0,,,-0.0002,L,,USD.SGD SG
+Interactive Brokers,Trades,Data,Order,Forex,SGD,USD.SGD,22/04/2024,-0.9165737,1.36195,,1.248327555,0,,,0.000505,,,USD.SGD SG
+Interactive Brokers,Trades,Data,Order,Forex,SGD,USD.SGD,21/05/2024,0.66,1.3475,,-0.88935,0,,,-0.000132,AFx,,USD.SGD SG
+Interactive Brokers,Trades,Data,Order,Forex,SGD,USD.SGD,14/06/2024,73.92,1.3551,,-100.168992,0,,,-0.125664,AFx,,USD.SGD SG
+Interactive Brokers,Trades,Data,Order,Forex,SGD,USD.SGD,14/06/2024,0.74,1.3553,,-1.002922,0,,,-0.001406,AFx,,USD.SGD SG
+Interactive Brokers,Trades,Data,Order,Forex,SGD,USD.SGD,14/06/2024,-0.0014,1.35338155,,0.001894734,0,,,0,,,USD.SGD SG
+Interactive Brokers,Trades,Data,Order,Forex,SGD,USD.SGD,14/06/2024,0.006474,1.35399984,,-0.008765795,0,,,-0.000004,,,USD.SGD SG
+Interactive Brokers,Trades,Data,Order,Forex,SGD,USD.SGD,02/07/2024,504.79,1.35925,,-686.1358075,0,,,-1.640568,AFx,,USD.SGD SG
+Interactive Brokers,Trades,Data,Order,Forex,SGD,USD.SGD,02/07/2024,1,1.3593,,-1.3593,0,,,-0.0033,AFx,,USD.SGD SG
+Interactive Brokers,Trades,Data,Order,Forex,SGD,USD.SGD,17/07/2024,628.28,1.34055,,-842.240754,0,,,-0.094242,AFx,,USD.SGD SG
+Interactive Brokers,Trades,Data,Order,Forex,SGD,USD.SGD,24/10/2024,1,1.3211,,-1.3211,0,,,-0.0029,AFx,,USD.SGD SG
+Interactive Brokers,Trades,Data,Order,Forex,SGD,USD.SGD,24/10/2024,"1,416.09",1.32105,,-1870.725695,0,,,-4.035856,AFx,,USD.SGD SG
+Interactive Brokers,Trades,Data,Order,Forex,SGD,USD.SGD,24/10/2024,0.000096,1.31883082,,-0.000126608,0,,,0,,,USD.SGD SG
+Interactive Brokers,Trades,Data,Order,Forex,SGD,USD.SGD,24/10/2024,0.00000864,1.31877196,,-0.000011394,0,,,0,,,USD.SGD SG

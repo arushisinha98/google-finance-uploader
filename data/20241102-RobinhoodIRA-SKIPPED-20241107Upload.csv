@@ -1,0 +1,407 @@
+Activity Date,Process Date,Settle Date,Instrument,Description,Trans Code,Quantity,Price,Amount,Delta Quantity,reason
+10/31/2024,10/31/2024,10/31/2024,QQQ,Cash Div: R/D 2024-09-23 P/D 2024-10-31 - 0.950586 shares at 0.67686,CDIV,,,$0.64,0,Negative or zero quantity
+10/07/2024,10/07/2024,10/07/2024,XLRE,Stock Lending,SLIP,,,$0.01,0,Negative or zero quantity
+10/07/2024,10/07/2024,10/07/2024,VOO,Stock Lending,SLIP,,,$0.01,0,Negative or zero quantity
+10/07/2024,10/07/2024,10/07/2024,VWO,Stock Lending,SLIP,,,$0.01,0,Negative or zero quantity
+10/07/2024,10/07/2024,10/07/2024,MCHI,Stock Lending,SLIP,,,$0.01,0,Negative or zero quantity
+10/07/2024,10/07/2024,10/07/2024,ARKW,Stock Lending,SLIP,,,$0.01,0,Negative or zero quantity
+10/07/2024,10/07/2024,10/07/2024,ARKQ,Stock Lending,SLIP,,,$0.01,0,Negative or zero quantity
+10/07/2024,10/07/2024,10/07/2024,ARKF,Stock Lending,SLIP,,,$0.01,0,Negative or zero quantity
+10/07/2024,10/07/2024,10/07/2024,INDA,Stock Lending,SLIP,,,$0.01,0,Negative or zero quantity
+10/07/2024,10/07/2024,10/07/2024,AVEM,Stock Lending,SLIP,,,$0.01,0,Negative or zero quantity
+10/07/2024,10/07/2024,10/07/2024,ARKX,Stock Lending,SLIP,,,$0.01,0,Negative or zero quantity
+10/07/2024,10/07/2024,10/07/2024,TLT,Stock Lending,SLIP,,,$0.01,0,Negative or zero quantity
+10/07/2024,10/07/2024,10/07/2024,IJR,Stock Lending,SLIP,,,$0.01,0,Negative or zero quantity
+10/07/2024,10/07/2024,10/07/2024,ARKK,Stock Lending,SLIP,,,$0.01,0,Negative or zero quantity
+10/04/2024,10/04/2024,10/04/2024,TLT,Cash Div: R/D 2024-10-01 P/D 2024-10-04 - 14.257388 shares at 0.315755,CDIV,,,$4.50,0,Negative or zero quantity
+10/01/2024,10/01/2024,10/01/2024,VOO,Cash Div: R/D 2024-09-27 P/D 2024-10-01 - 56.382054 shares at 1.6386,CDIV,,,$92.39,0,Negative or zero quantity
+9/30/2024,9/30/2024,9/30/2024,IJR,Cash Div: R/D 2024-09-25 P/D 2024-09-30 - 21.290922 shares at 0.514828,CDIV,,,$10.96,0,Negative or zero quantity
+9/27/2024,9/27/2024,9/27/2024,PBR.A,Foreign Tax Witholding at $0.22,DTAX,,,($0.22),0,Negative or zero quantity
+9/27/2024,9/27/2024,9/27/2024,PBR.A,Cash Div: R/D 2024-06-13 P/D 2024-09-27 - 55.081659 shares at 0.0268033,CDIV,,,$1.48,0,Negative or zero quantity
+9/27/2024,9/27/2024,9/27/2024,PBR.A,Cash Div: R/D 2024-06-13 P/D 2024-09-27 - 55.081659 shares at 0.163276,CDIV,,,$8.99,0,Negative or zero quantity
+9/27/2024,9/27/2024,9/27/2024,PBR.A,Sponsored ADR: Agency Processing Fee at $0.28,DFEE,,,($0.28),0,Negative or zero quantity
+9/25/2024,9/25/2024,9/25/2024,XLRE,Cash Div: R/D 2024-09-23 P/D 2024-09-25 - 57.172922 shares at 0.311485,CDIV,,,$17.81,0,Negative or zero quantity
+9/24/2024,9/24/2024,9/24/2024,VWO,Cash Div: R/D 2024-09-20 P/D 2024-09-24 - 18.866485 shares at 0.1344,CDIV,,,$2.54,0,Negative or zero quantity
+9/16/2024,9/16/2024,9/16/2024,NEE,Cash Div: R/D 2024-08-30 P/D 2024-09-16 - 13.110713 shares at 0.515,CDIV,,,$6.75,0,Negative or zero quantity
+09/09/2024,09/09/2024,09/09/2024,XLRE,Stock Lending,SLIP,,,$0.01,0,Negative or zero quantity
+09/09/2024,09/09/2024,09/09/2024,IJR,Stock Lending,SLIP,,,$0.01,0,Negative or zero quantity
+09/09/2024,09/09/2024,09/09/2024,MCHI,Stock Lending,SLIP,,,$0.01,0,Negative or zero quantity
+09/09/2024,09/09/2024,09/09/2024,INDA,Stock Lending,SLIP,,,$0.01,0,Negative or zero quantity
+09/09/2024,09/09/2024,09/09/2024,VWO,Stock Lending,SLIP,,,$0.01,0,Negative or zero quantity
+09/09/2024,09/09/2024,09/09/2024,VOO,Stock Lending,SLIP,,,$0.01,0,Negative or zero quantity
+09/09/2024,09/09/2024,09/09/2024,ARKQ,Stock Lending,SLIP,,,$0.01,0,Negative or zero quantity
+09/09/2024,09/09/2024,09/09/2024,ARKW,Stock Lending,SLIP,,,$0.01,0,Negative or zero quantity
+09/09/2024,09/09/2024,09/09/2024,ARKX,Stock Lending,SLIP,,,$0.01,0,Negative or zero quantity
+09/09/2024,09/09/2024,09/09/2024,AVEM,Stock Lending,SLIP,,,$0.01,0,Negative or zero quantity
+09/09/2024,09/09/2024,09/09/2024,TLT,Stock Lending,SLIP,,,$0.01,0,Negative or zero quantity
+09/09/2024,09/09/2024,09/09/2024,ARKK,Stock Lending,SLIP,,,$0.01,0,Negative or zero quantity
+09/09/2024,09/09/2024,09/09/2024,ARKF,Stock Lending,SLIP,,,$0.01,0,Negative or zero quantity
+09/06/2024,09/06/2024,09/06/2024,TLT,Cash Div: R/D 2024-09-03 P/D 2024-09-06 - 14.212723 shares at 0.312782,CDIV,,,$4.45,0,Negative or zero quantity
+09/06/2024,09/06/2024,09/09/2024,QQQ,"Invesco QQQ
+CUSIP: 46090E103",Sell,1.0,$454.00,$454.00,-1,Negative or zero quantity
+8/27/2024,8/27/2024,8/27/2024,PBR.A,Foreign Tax Witholding at $1.58,DTAX,,,($1.58),0,Negative or zero quantity
+8/27/2024,8/27/2024,8/27/2024,PBR.A,Sponsored ADR: Agency Processing Fee at $0.28,DFEE,,,($0.28),0,Negative or zero quantity
+8/27/2024,8/27/2024,8/27/2024,PBR.A,Cash Div: R/D 2024-06-13 P/D 2024-08-27 - 55.081659 shares at 0.1908739,CDIV,,,$10.51,0,Negative or zero quantity
+08/07/2024,08/07/2024,08/07/2024,VWO,Stock Lending,SLIP,,,$0.01,0,Negative or zero quantity
+08/07/2024,08/07/2024,08/07/2024,INDA,Stock Lending,SLIP,,,$0.01,0,Negative or zero quantity
+08/07/2024,08/07/2024,08/07/2024,MCHI,Stock Lending,SLIP,,,$0.01,0,Negative or zero quantity
+08/07/2024,08/07/2024,08/07/2024,XLRE,Stock Lending,SLIP,,,$0.01,0,Negative or zero quantity
+08/07/2024,08/07/2024,08/07/2024,ARKW,Stock Lending,SLIP,,,$0.01,0,Negative or zero quantity
+08/07/2024,08/07/2024,08/07/2024,ARKK,Stock Lending,SLIP,,,$0.01,0,Negative or zero quantity
+08/07/2024,08/07/2024,08/07/2024,ARKQ,Stock Lending,SLIP,,,$0.01,0,Negative or zero quantity
+08/07/2024,08/07/2024,08/07/2024,IJR,Stock Lending,SLIP,,,$0.01,0,Negative or zero quantity
+08/07/2024,08/07/2024,08/07/2024,ARKX,Stock Lending,SLIP,,,$0.01,0,Negative or zero quantity
+08/07/2024,08/07/2024,08/07/2024,AVEM,Stock Lending,SLIP,,,$0.01,0,Negative or zero quantity
+08/07/2024,08/07/2024,08/07/2024,ARKF,Stock Lending,SLIP,,,$0.01,0,Negative or zero quantity
+08/06/2024,08/06/2024,08/06/2024,TLT,Cash Div: R/D 2024-08-01 P/D 2024-08-06 - 14.166439 shares at 0.314856,CDIV,,,$4.46,0,Negative or zero quantity
+7/31/2024,7/31/2024,7/31/2024,QQQ,Cash Div: R/D 2024-06-24 P/D 2024-07-31 - 0.98578 shares at 0.7615,CDIV,,,$0.75,0,Negative or zero quantity
+07/05/2024,07/05/2024,07/05/2024,TLT,Cash Div: R/D 2024-07-01 P/D 2024-07-05 - 13.125173 shares at 0.291104,CDIV,,,$3.82,0,Negative or zero quantity
+07/05/2024,07/05/2024,07/05/2024,VOO,Stock Lending,SLIP,,,$0.01,0,Negative or zero quantity
+07/05/2024,07/05/2024,07/05/2024,ARKX,Stock Lending,SLIP,,,$0.01,0,Negative or zero quantity
+07/05/2024,07/05/2024,07/05/2024,TLT,Stock Lending,SLIP,,,$0.01,0,Negative or zero quantity
+07/05/2024,07/05/2024,07/05/2024,ARKQ,Stock Lending,SLIP,,,$0.01,0,Negative or zero quantity
+07/05/2024,07/05/2024,07/05/2024,ARKW,Stock Lending,SLIP,,,$0.01,0,Negative or zero quantity
+07/05/2024,07/05/2024,07/05/2024,IJR,Stock Lending,SLIP,,,$0.01,0,Negative or zero quantity
+07/05/2024,07/05/2024,07/05/2024,MCHI,Stock Lending,SLIP,,,$0.01,0,Negative or zero quantity
+07/05/2024,07/05/2024,07/05/2024,XLRE,Stock Lending,SLIP,,,$0.01,0,Negative or zero quantity
+07/05/2024,07/05/2024,07/05/2024,ARKF,Stock Lending,SLIP,,,$0.01,0,Negative or zero quantity
+07/05/2024,07/05/2024,07/05/2024,AVEM,Stock Lending,SLIP,,,$0.01,0,Negative or zero quantity
+07/05/2024,07/05/2024,07/05/2024,INDA,Stock Lending,SLIP,,,$0.01,0,Negative or zero quantity
+07/05/2024,07/05/2024,07/05/2024,ARKK,Stock Lending,SLIP,,,$0.01,0,Negative or zero quantity
+07/05/2024,07/05/2024,07/05/2024,VWO,Stock Lending,SLIP,,,$0.01,0,Negative or zero quantity
+07/02/2024,07/02/2024,07/02/2024,VOO,Cash Div: R/D 2024-06-28 P/D 2024-07-02 - 54.361071 shares at 1.7835,CDIV,,,$96.95,0,Negative or zero quantity
+6/27/2024,6/27/2024,6/27/2024,PBR.A,Cash Div: R/D 2024-04-29 P/D 2024-06-27 - 53.061955 shares at 0.010057,CDIV,,,$0.53,0,Negative or zero quantity
+6/27/2024,6/27/2024,6/27/2024,PBR.A,Foreign Tax Witholding at $0.08,DTAX,,,($0.08),0,Negative or zero quantity
+6/27/2024,6/27/2024,6/27/2024,PBR.A,Sponsored ADR: Agency Processing Fee at $0.27,DFEE,,,($0.27),0,Negative or zero quantity
+6/27/2024,6/27/2024,6/27/2024,PBR.A,Cash Div: R/D 2024-04-29 P/D 2024-06-27 - 53.061955 shares at 0.202403,CDIV,,,$10.74,0,Negative or zero quantity
+6/27/2024,6/27/2024,6/27/2024,PBR.A,Cash Div: R/D 2024-05-06 P/D 2024-06-27 - 53.061955 shares at 0.015532,CDIV,,,$0.82,0,Negative or zero quantity
+6/27/2024,6/27/2024,6/27/2024,PBR.A,Foreign Tax Witholding at $0.12,DTAX,,,($0.12),0,Negative or zero quantity
+6/27/2024,6/27/2024,6/27/2024,PBR.A,Cash Div: R/D 2024-05-06 P/D 2024-06-27 - 53.061955 shares at 0.312578,CDIV,,,$16.59,0,Negative or zero quantity
+6/26/2024,6/26/2024,6/26/2024,AVEM,Cash Div: R/D 2024-06-24 P/D 2024-06-26 - 25.586586 shares at 0.5694,CDIV,,,$14.57,0,Negative or zero quantity
+6/26/2024,6/26/2024,6/26/2024,XLRE,Cash Div: R/D 2024-06-24 P/D 2024-06-26 - 56.597555 shares at 0.387111,CDIV,,,$21.91,0,Negative or zero quantity
+6/25/2024,6/25/2024,6/25/2024,VWO,Cash Div: R/D 2024-06-21 P/D 2024-06-25 - 14.26842 shares at 0.1704,CDIV,,,$2.43,0,Negative or zero quantity
+6/17/2024,6/17/2024,6/17/2024,NEE,Cash Div: R/D 2024-06-03 P/D 2024-06-17 - 9.044142 shares at 0.515,CDIV,,,$4.66,0,Negative or zero quantity
+6/17/2024,6/17/2024,6/17/2024,IJR,Cash Div: R/D 2024-06-11 P/D 2024-06-17 - 20.282579 shares at 0.385723,CDIV,,,$7.82,0,Negative or zero quantity
+6/17/2024,6/17/2024,6/17/2024,MCHI,Cash Div: R/D 2024-06-11 P/D 2024-06-17 - 39.201928 shares at 0.190546,CDIV,,,$7.47,0,Negative or zero quantity
+6/17/2024,6/17/2024,6/18/2024,XLRE,"Real Estate Select Sector SPDR ETF
+CUSIP: 81369Y860",Sell,13.02761,$38.32,$499.22,-13.02761,Negative or zero quantity
+06/07/2024,06/07/2024,06/07/2024,TLT,Cash Div: R/D 2024-06-03 P/D 2024-06-07 - 13.080863 shares at 0.308295,CDIV,,,$4.03,0,Negative or zero quantity
+06/07/2024,06/07/2024,06/07/2024,MCHI,Stock Lending,SLIP,,,$0.01,0,Negative or zero quantity
+06/07/2024,06/07/2024,06/07/2024,XLRE,Stock Lending,SLIP,,,$0.01,0,Negative or zero quantity
+06/07/2024,06/07/2024,06/07/2024,INDA,Stock Lending,SLIP,,,$0.01,0,Negative or zero quantity
+06/07/2024,06/07/2024,06/07/2024,VWO,Stock Lending,SLIP,,,$0.01,0,Negative or zero quantity
+06/07/2024,06/07/2024,06/07/2024,VOO,Stock Lending,SLIP,,,$0.01,0,Negative or zero quantity
+06/07/2024,06/07/2024,06/07/2024,ARKQ,Stock Lending,SLIP,,,$0.01,0,Negative or zero quantity
+06/07/2024,06/07/2024,06/07/2024,AVEM,Stock Lending,SLIP,,,$0.01,0,Negative or zero quantity
+06/07/2024,06/07/2024,06/07/2024,ARKW,Stock Lending,SLIP,,,$0.01,0,Negative or zero quantity
+06/07/2024,06/07/2024,06/07/2024,ARKX,Stock Lending,SLIP,,,$0.01,0,Negative or zero quantity
+06/07/2024,06/07/2024,06/07/2024,ARKK,Stock Lending,SLIP,,,$0.01,0,Negative or zero quantity
+06/07/2024,06/07/2024,06/07/2024,IJR,Stock Lending,SLIP,,,$0.01,0,Negative or zero quantity
+06/07/2024,06/07/2024,06/07/2024,ARKF,Stock Lending,SLIP,,,$0.01,0,Negative or zero quantity
+5/29/2024,5/29/2024,5/29/2024,PBR.A,Foreign Tax Witholding at $0.07,DTAX,,,($0.07),0,Negative or zero quantity
+5/29/2024,5/29/2024,5/29/2024,PBR.A,Cash Div: R/D 2024-04-29 P/D 2024-05-28 - 53.061955 shares at 0.00874,CDIV,,,$0.46,0,Negative or zero quantity
+5/29/2024,5/29/2024,5/29/2024,PBR.A,Sponsored ADR: Agency Processing Fee at $0.27,DFEE,,,($0.27),0,Negative or zero quantity
+5/29/2024,5/29/2024,5/29/2024,PBR.A,Cash Div: R/D 2024-04-29 P/D 2024-05-28 - 53.061955 shares at 0.214959,CDIV,,,$11.41,0,Negative or zero quantity
+5/29/2024,5/29/2024,5/29/2024,PBR.A,Cash Div: R/D 2024-05-06 P/D 2024-05-28 - 53.061955 shares at 0.331969,CDIV,,,$17.61,0,Negative or zero quantity
+5/29/2024,5/29/2024,5/29/2024,PBR.A,Cash Div: R/D 2024-05-06 P/D 2024-05-28 - 53.061955 shares at 0.011473,CDIV,,,$0.61,0,Negative or zero quantity
+05/07/2024,05/07/2024,05/07/2024,TLT,Cash Div: R/D 2024-05-02 P/D 2024-05-07 - 13.03651 shares at 0.307743,CDIV,,,$4.01,0,Negative or zero quantity
+05/06/2024,05/06/2024,05/06/2024,VOO,Stock Lending,SLIP,,,$0.01,0,Negative or zero quantity
+05/06/2024,05/06/2024,05/06/2024,IJR,Stock Lending,SLIP,,,$0.01,0,Negative or zero quantity
+05/06/2024,05/06/2024,05/06/2024,INDA,Stock Lending,SLIP,,,$0.01,0,Negative or zero quantity
+05/06/2024,05/06/2024,05/06/2024,AVEM,Stock Lending,SLIP,,,$0.01,0,Negative or zero quantity
+05/06/2024,05/06/2024,05/06/2024,ARKX,Stock Lending,SLIP,,,$0.01,0,Negative or zero quantity
+05/06/2024,05/06/2024,05/06/2024,MCHI,Stock Lending,SLIP,,,$0.01,0,Negative or zero quantity
+05/06/2024,05/06/2024,05/06/2024,XLRE,Stock Lending,SLIP,,,$0.01,0,Negative or zero quantity
+05/06/2024,05/06/2024,05/06/2024,PBR.A,Stock Lending,SLIP,,,$0.01,0,Negative or zero quantity
+05/06/2024,05/06/2024,05/06/2024,ARKG,Stock Lending,SLIP,,,$0.01,0,Negative or zero quantity
+05/06/2024,05/06/2024,05/06/2024,ARKK,Stock Lending,SLIP,,,$0.01,0,Negative or zero quantity
+05/06/2024,05/06/2024,05/06/2024,ARKW,Stock Lending,SLIP,,,$0.01,0,Negative or zero quantity
+05/06/2024,05/06/2024,05/06/2024,ARKF,Stock Lending,SLIP,,,$0.01,0,Negative or zero quantity
+05/06/2024,05/06/2024,05/06/2024,ARKQ,Stock Lending,SLIP,,,$0.01,0,Negative or zero quantity
+4/30/2024,4/30/2024,4/30/2024,QQQ,Cash Div: R/D 2024-03-19 P/D 2024-04-30 - 0.525565 shares at 0.57345,CDIV,,,$0.30,0,Negative or zero quantity
+04/05/2024,04/05/2024,04/05/2024,TLT,Cash Div: R/D 2024-04-02 P/D 2024-04-05 - 12.99212 shares at 0.312425,CDIV,,,$4.06,0,Negative or zero quantity
+04/05/2024,04/05/2024,04/05/2024,AVEM,Stock Lending,SLIP,,,$0.01,0,Negative or zero quantity
+04/05/2024,04/05/2024,04/05/2024,XLRE,Stock Lending,SLIP,,,$0.01,0,Negative or zero quantity
+04/05/2024,04/05/2024,04/05/2024,IJR,Stock Lending,SLIP,,,$0.01,0,Negative or zero quantity
+04/05/2024,04/05/2024,04/05/2024,MCHI,Stock Lending,SLIP,,,$0.01,0,Negative or zero quantity
+04/05/2024,04/05/2024,04/05/2024,INDA,Stock Lending,SLIP,,,$0.01,0,Negative or zero quantity
+04/05/2024,04/05/2024,04/05/2024,PBR.A,Stock Lending,SLIP,,,$0.01,0,Negative or zero quantity
+04/05/2024,04/05/2024,04/05/2024,ARKK,Stock Lending,SLIP,,,$0.01,0,Negative or zero quantity
+04/05/2024,04/05/2024,04/05/2024,ARKW,Stock Lending,SLIP,,,$0.01,0,Negative or zero quantity
+04/05/2024,04/05/2024,04/05/2024,ARKG,Stock Lending,SLIP,,,$0.01,0,Negative or zero quantity
+04/05/2024,04/05/2024,04/05/2024,ARKQ,Stock Lending,SLIP,,,$0.01,0,Negative or zero quantity
+04/05/2024,04/05/2024,04/05/2024,ARKF,Stock Lending,SLIP,,,$0.01,0,Negative or zero quantity
+04/02/2024,04/02/2024,04/04/2024,ARKG,"ARK Genomic Revolution ETF
+CUSIP: 00214Q302",Sell,5.0,$27.14,$135.70,-5,Negative or zero quantity
+3/27/2024,3/27/2024,3/27/2024,PBR.A,Cash Div: R/D 2023-11-24 P/D 2024-03-27 - 68.239057 shares at 0.267889,CDIV,,,$18.28,0,Negative or zero quantity
+3/27/2024,3/27/2024,3/27/2024,PBR.A,Sponsored ADR: Agency Processing Fee at $0.34,DFEE,,,($0.34),0,Negative or zero quantity
+3/27/2024,3/27/2024,3/27/2024,VOO,Cash Div: R/D 2024-03-25 P/D 2024-03-27 - 54.18717 shares at 1.5429,CDIV,,,$83.61,0,Negative or zero quantity
+3/27/2024,3/27/2024,3/27/2024,IJR,Cash Div: R/D 2024-03-22 P/D 2024-03-27 - 20.2229 shares at 0.326291,CDIV,,,$6.60,0,Negative or zero quantity
+3/27/2024,3/27/2024,3/27/2024,PBR.A,Foreign Tax Witholding at $0.06,DTAX,,,($0.06),0,Negative or zero quantity
+3/27/2024,3/27/2024,3/27/2024,PBR.A,Cash Div: R/D 2023-11-24 P/D 2024-03-27 - 68.239057 shares at 0.00636,CDIV,,,$0.43,0,Negative or zero quantity
+3/21/2024,3/21/2024,3/21/2024,XLRE,Cash Div: R/D 2024-03-19 P/D 2024-03-21 - 66.570224 shares at 0.263591,CDIV,,,$17.55,0,Negative or zero quantity
+3/15/2024,3/15/2024,3/15/2024,NEE,Cash Div: R/D 2024-02-27 P/D 2024-03-15 - 8.967078 shares at 0.515,CDIV,,,$4.62,0,Negative or zero quantity
+03/07/2024,03/07/2024,03/07/2024,TLT,Cash Div: R/D 2024-03-04 P/D 2024-03-07 - 12.952175 shares at 0.295234,CDIV,,,$3.82,0,Negative or zero quantity
+03/07/2024,03/07/2024,03/07/2024,INDA,Stock Lending,SLIP,,,$0.01,0,Negative or zero quantity
+03/07/2024,03/07/2024,03/07/2024,ARKF,Stock Lending,SLIP,,,$0.01,0,Negative or zero quantity
+03/07/2024,03/07/2024,03/07/2024,AVEM,Stock Lending,SLIP,,,$0.01,0,Negative or zero quantity
+03/07/2024,03/07/2024,03/07/2024,XLRE,Stock Lending,SLIP,,,$0.01,0,Negative or zero quantity
+03/07/2024,03/07/2024,03/07/2024,ARKK,Stock Lending,SLIP,,,$0.01,0,Negative or zero quantity
+03/07/2024,03/07/2024,03/07/2024,ARKQ,Stock Lending,SLIP,,,$0.01,0,Negative or zero quantity
+03/07/2024,03/07/2024,03/07/2024,IJR,Stock Lending,SLIP,,,$0.01,0,Negative or zero quantity
+03/07/2024,03/07/2024,03/07/2024,ARKW,Stock Lending,SLIP,,,$0.01,0,Negative or zero quantity
+03/07/2024,03/07/2024,03/07/2024,MCHI,Stock Lending,SLIP,,,$0.01,0,Negative or zero quantity
+03/07/2024,03/07/2024,03/07/2024,ARKG,Stock Lending,SLIP,,,$0.01,0,Negative or zero quantity
+2/27/2024,2/27/2024,2/27/2024,PBR.A,Sponsored ADR: Agency Processing Fee at $0.34,DFEE,,,($0.34),0,Negative or zero quantity
+2/27/2024,2/27/2024,2/27/2024,PBR.A,Cash Div: R/D 2023-11-24 P/D 2024-02-27 - 68.239057 shares at 0.0997352,CDIV,,,$6.81,0,Negative or zero quantity
+2/27/2024,2/27/2024,2/27/2024,PBR.A,Foreign Tax Witholding at $0.01,DTAX,,,($0.01),0,Negative or zero quantity
+2/27/2024,2/27/2024,2/27/2024,PBR.A,Foreign Tax Witholding at $1.80,DTAX,,,($1.80),0,Negative or zero quantity
+2/27/2024,2/27/2024,2/27/2024,PBR.A,Cash Div: R/D 2023-11-24 P/D 2024-02-27 - 68.239057 shares at 0.1760265,CDIV,,,$12.01,0,Negative or zero quantity
+02/07/2024,02/07/2024,02/07/2024,TLT,Cash Div: R/D 2024-02-02 P/D 2024-02-07 - 12.909563 shares at 0.310122,CDIV,,,$4.00,0,Negative or zero quantity
+02/07/2024,02/07/2024,02/07/2024,XLRE,Stock Lending,SLIP,,,$0.01,0,Negative or zero quantity
+02/07/2024,02/07/2024,02/07/2024,MBB,Stock Lending,SLIP,,,$0.01,0,Negative or zero quantity
+02/07/2024,02/07/2024,02/07/2024,MCHI,Stock Lending,SLIP,,,$0.01,0,Negative or zero quantity
+02/07/2024,02/07/2024,02/07/2024,SUSC,Stock Lending,SLIP,,,$0.01,0,Negative or zero quantity
+02/07/2024,02/07/2024,02/07/2024,INDA,Stock Lending,SLIP,,,$0.01,0,Negative or zero quantity
+02/07/2024,02/07/2024,02/07/2024,AVEM,Stock Lending,SLIP,,,$0.02,0,Negative or zero quantity
+02/07/2024,02/07/2024,02/07/2024,ARKF,Stock Lending,SLIP,,,$0.01,0,Negative or zero quantity
+02/07/2024,02/07/2024,02/07/2024,ARKW,Stock Lending,SLIP,,,$0.01,0,Negative or zero quantity
+02/07/2024,02/07/2024,02/07/2024,ARKQ,Stock Lending,SLIP,,,$0.01,0,Negative or zero quantity
+02/07/2024,02/07/2024,02/07/2024,ARKK,Stock Lending,SLIP,,,$0.01,0,Negative or zero quantity
+02/07/2024,02/07/2024,02/07/2024,IJR,Stock Lending,SLIP,,,$0.01,0,Negative or zero quantity
+02/07/2024,02/07/2024,02/07/2024,ARKG,Stock Lending,SLIP,,,$0.01,0,Negative or zero quantity
+1/16/2024,1/16/2024,1/16/2024,QQQ,Cash Div: R/D 2023-12-28 P/D 2024-01-16 - 0.524242 shares at 0.21584,CDIV,,,$0.11,0,Negative or zero quantity
+01/08/2024,01/08/2024,01/08/2024,VOO,Stock Lending,SLIP,,,$0.01,0,Negative or zero quantity
+01/08/2024,01/08/2024,01/08/2024,XLRE,Stock Lending,SLIP,,,$0.01,0,Negative or zero quantity
+01/08/2024,01/08/2024,01/08/2024,MCHI,Stock Lending,SLIP,,,$0.01,0,Negative or zero quantity
+01/08/2024,01/08/2024,01/08/2024,SUSC,Stock Lending,SLIP,,,$0.01,0,Negative or zero quantity
+01/08/2024,01/08/2024,01/08/2024,INDA,Stock Lending,SLIP,,,$0.01,0,Negative or zero quantity
+01/08/2024,01/08/2024,01/08/2024,ARKK,Stock Lending,SLIP,,,$0.01,0,Negative or zero quantity
+01/08/2024,01/08/2024,01/08/2024,ARKG,Stock Lending,SLIP,,,$0.01,0,Negative or zero quantity
+01/08/2024,01/08/2024,01/08/2024,IJR,Stock Lending,SLIP,,,$0.01,0,Negative or zero quantity
+01/08/2024,01/08/2024,01/08/2024,MBB,Stock Lending,SLIP,,,$0.01,0,Negative or zero quantity
+01/08/2024,01/08/2024,01/08/2024,ARKQ,Stock Lending,SLIP,,,$0.01,0,Negative or zero quantity
+01/08/2024,01/08/2024,01/08/2024,AVEM,Stock Lending,SLIP,,,$0.07,0,Negative or zero quantity
+01/08/2024,01/08/2024,01/08/2024,ARKF,Stock Lending,SLIP,,,$0.01,0,Negative or zero quantity
+01/08/2024,01/08/2024,01/08/2024,ARKW,Stock Lending,SLIP,,,$0.01,0,Negative or zero quantity
+01/04/2024,01/04/2024,01/04/2024,PBR.A,Cash Div: R/D 2023-05-01 P/D 2024-01-04 - 16 shares at 0.026632,CDIV,,,$0.43,0,Negative or zero quantity
+01/04/2024,01/04/2024,01/04/2024,PBR.A,Foreign Tax Witholding at $0.06,DTAX,,,($0.06),0,Negative or zero quantity
+01/04/2024,01/04/2024,01/04/2024,PBR.A,Cash Div: R/D 2023-05-01 P/D 2024-01-04 - 16 shares at 0.205802,CDIV,,,$3.29,0,Negative or zero quantity
+01/03/2024,01/03/2024,01/05/2024,SUSB,"iShares Trust iShares ESG Aware 1-5 Year USD Corporate Bond ETF
+CUSIP: 46435G243",Sell,7.399189,$24.40,$180.54,-7.399189,Negative or zero quantity
+01/03/2024,01/03/2024,01/05/2024,MBB,"iShares MBS ETF
+CUSIP: 464288588",Sell,1.927639,$93.20,$179.66,-1.927639,Negative or zero quantity
+01/03/2024,01/03/2024,01/05/2024,SUSC,"iShares Trust iShares ESG Aware USD Corporate Bond ETF
+CUSIP: 46435G193",Sell,7.917226,$23.01,$182.18,-7.917226,Negative or zero quantity
+01/03/2024,01/03/2024,01/05/2024,PBR.A,"Petrobras
+CUSIP: 71654V101",Sell,19.0,$15.83,$300.85,-19,Negative or zero quantity
+01/03/2024,01/03/2024,01/05/2024,PBR.A,"Petrobras
+CUSIP: 71654V101",Sell,0.570707,$15.84,$9.04,-0.570707,Negative or zero quantity
+01/02/2024,01/02/2024,01/02/2024,QQQ,Cash Div: R/D 2023-12-19 P/D 2023-12-29 - 0.524242 shares at 0.80826,CDIV,,,$0.42,0,Negative or zero quantity
+12/27/2023,12/27/2023,12/27/2023,IJR,Cash Div: R/D 2023-12-21 P/D 2023-12-27 - 20.171111 shares at 0.282675,CDIV,,,$5.70,0,Negative or zero quantity
+12/27/2023,12/27/2023,12/27/2023,MCHI,Cash Div: R/D 2023-12-21 P/D 2023-12-27 - 32.864423 shares at 0.994126,CDIV,,,$32.67,0,Negative or zero quantity
+12/26/2023,12/26/2023,12/26/2023,VOO,Cash Div: R/D 2023-12-21 P/D 2023-12-26 - 53.964816 shares at 1.8011,CDIV,,,$97.20,0,Negative or zero quantity
+12/22/2023,12/22/2023,12/22/2023,PBR.A,Cash Div: R/D 2023-08-23 P/D 2023-12-22 - 67.332611 shares at 0.2322023,CDIV,,,$15.63,0,Negative or zero quantity
+12/22/2023,12/22/2023,12/22/2023,PBR.A,Sponsored ADR: Agency Processing Fee at $0.34,DFEE,,,($0.34),0,Negative or zero quantity
+12/21/2023,12/21/2023,12/21/2023,XLRE,Cash Div: R/D 2023-12-19 P/D 2023-12-21 - 65.875488 shares at 0.420763,CDIV,,,$27.72,0,Negative or zero quantity
+12/21/2023,12/21/2023,12/21/2023,AVEM,Cash Div: R/D 2023-12-19 P/D 2023-12-21 - 25.068846 shares at 1.141,CDIV,,,$28.60,0,Negative or zero quantity
+12/20/2023,12/20/2023,12/20/2023,SUSC,Cash Div: R/D 2023-12-15 P/D 2023-12-20 - 7.890071 shares at 0.079864,CDIV,,,$0.63,0,Negative or zero quantity
+12/20/2023,12/20/2023,12/20/2023,SUSB,Cash Div: R/D 2023-12-15 P/D 2023-12-20 - 7.379525 shares at 0.065423,CDIV,,,$0.48,0,Negative or zero quantity
+12/20/2023,12/20/2023,12/20/2023,TLT,Cash Div: R/D 2023-12-15 P/D 2023-12-20 - 12.869294 shares at 0.310534,CDIV,,,$4.00,0,Negative or zero quantity
+12/20/2023,12/20/2023,12/20/2023,MBB,Cash Div: R/D 2023-12-15 P/D 2023-12-20 - 1.921984 shares at 0.275714,CDIV,,,$0.53,0,Negative or zero quantity
+12/15/2023,12/15/2023,12/15/2023,NEE,Cash Div: R/D 2023-11-24 P/D 2023-12-15 - 8.898926 shares at 0.4675,CDIV,,,$4.16,0,Negative or zero quantity
+12/07/2023,12/07/2023,12/07/2023,TLT,Cash Div: R/D 2023-12-04 P/D 2023-12-07 - 12.830031 shares at 0.28892,CDIV,,,$3.71,0,Negative or zero quantity
+12/07/2023,12/07/2023,12/07/2023,MBB,Cash Div: R/D 2023-12-04 P/D 2023-12-07 - 1.916081 shares at 0.280375,CDIV,,,$0.54,0,Negative or zero quantity
+12/07/2023,12/07/2023,12/07/2023,SUSB,Cash Div: R/D 2023-12-04 P/D 2023-12-07 - 7.359269 shares at 0.066703,CDIV,,,$0.49,0,Negative or zero quantity
+12/07/2023,12/07/2023,12/07/2023,SUSC,Cash Div: R/D 2023-12-04 P/D 2023-12-07 - 7.861853 shares at 0.081769,CDIV,,,$0.64,0,Negative or zero quantity
+12/07/2023,12/07/2023,12/07/2023,TLT,Stock Lending,SLIP,,,$0.01,0,Negative or zero quantity
+12/07/2023,12/07/2023,12/07/2023,SUSC,Stock Lending,SLIP,,,$0.01,0,Negative or zero quantity
+12/07/2023,12/07/2023,12/07/2023,XLRE,Stock Lending,SLIP,,,$0.01,0,Negative or zero quantity
+12/07/2023,12/07/2023,12/07/2023,INDA,Stock Lending,SLIP,,,$0.01,0,Negative or zero quantity
+12/07/2023,12/07/2023,12/07/2023,MBB,Stock Lending,SLIP,,,$0.01,0,Negative or zero quantity
+12/07/2023,12/07/2023,12/07/2023,AVEM,Stock Lending,SLIP,,,$0.04,0,Negative or zero quantity
+12/07/2023,12/07/2023,12/07/2023,IJR,Stock Lending,SLIP,,,$0.01,0,Negative or zero quantity
+12/07/2023,12/07/2023,12/07/2023,MCHI,Stock Lending,SLIP,,,$0.01,0,Negative or zero quantity
+12/07/2023,12/07/2023,12/07/2023,ARKK,Stock Lending,SLIP,,,$0.01,0,Negative or zero quantity
+12/07/2023,12/07/2023,12/07/2023,ARKF,Stock Lending,SLIP,,,$0.01,0,Negative or zero quantity
+12/07/2023,12/07/2023,12/07/2023,ARKG,Stock Lending,SLIP,,,$0.01,0,Negative or zero quantity
+12/07/2023,12/07/2023,12/07/2023,ARKW,Stock Lending,SLIP,,,$0.01,0,Negative or zero quantity
+11/30/2023,11/30/2023,11/30/2023,PBR.A,Sponsored ADR: Agency Processing Fee at $0.34,DFEE,,,($0.34),0,Negative or zero quantity
+11/30/2023,11/30/2023,11/30/2023,PBR.A,Cash Div: R/D 2023-08-23 P/D 2023-11-30 - 67.332611 shares at 0.085546,CDIV,,,$5.76,0,Negative or zero quantity
+11/30/2023,11/30/2023,11/30/2023,PBR.A,Cash Div: R/D 2023-08-23 P/D 2023-11-30 - 67.332611 shares at 0.149467,CDIV,,,$10.06,0,Negative or zero quantity
+11/30/2023,11/30/2023,11/30/2023,PBR.A,Foreign Tax Witholding at $1.51,DTAX,,,($1.51),0,Negative or zero quantity
+11/21/2023,11/21/2023,11/21/2023,,Interest on Contribution (IRA Match),MTCH,,,$93.54,0,Negative or zero quantity
+11/21/2023,11/21/2023,11/21/2023,,"ACAT IN control_num = 20233210024524, firm_id = 0226, acct_num = 226832163",ACATI,,,"$6,850.26",0,Negative or zero quantity
+11/16/2023,11/16/2023,11/16/2023,,Interest on Contribution (IRA Match),MTCH,,,$0.10,0,Negative or zero quantity
+11/16/2023,11/16/2023,11/16/2023,,"ACAT IN control_num = 20233180048925, firm_id = 0226, acct_num = 226832163",ACATI,,,$10.00,0,Negative or zero quantity
+11/07/2023,11/07/2023,11/07/2023,SUSC,Cash Div: R/D 2023-11-02 P/D 2023-11-07 - 3.349437 shares at 0.07739,CDIV,,,$0.26,0,Negative or zero quantity
+11/07/2023,11/07/2023,11/07/2023,TLT,Cash Div: R/D 2023-11-02 P/D 2023-11-07 - 12.239388 shares at 0.286291,CDIV,,,$3.50,0,Negative or zero quantity
+11/07/2023,11/07/2023,11/07/2023,SUSB,Cash Div: R/D 2023-11-02 P/D 2023-11-07 - 3.183346 shares at 0.062162,CDIV,,,$0.20,0,Negative or zero quantity
+11/07/2023,11/07/2023,11/07/2023,MBB,Cash Div: R/D 2023-11-02 P/D 2023-11-07 - 0.806985 shares at 0.273535,CDIV,,,$0.22,0,Negative or zero quantity
+11/06/2023,11/06/2023,11/06/2023,INDA,Stock Lending,SLIP,,,$0.01,0,Negative or zero quantity
+11/06/2023,11/06/2023,11/06/2023,XLRE,Stock Lending,SLIP,,,$0.01,0,Negative or zero quantity
+11/06/2023,11/06/2023,11/06/2023,SUSC,Stock Lending,SLIP,,,$0.01,0,Negative or zero quantity
+11/06/2023,11/06/2023,11/06/2023,MCHI,Stock Lending,SLIP,,,$0.01,0,Negative or zero quantity
+11/06/2023,11/06/2023,11/06/2023,AVEM,Stock Lending,SLIP,,,$0.15,0,Negative or zero quantity
+11/06/2023,11/06/2023,11/06/2023,IJR,Stock Lending,SLIP,,,$0.01,0,Negative or zero quantity
+11/06/2023,11/06/2023,11/06/2023,ARKW,Stock Lending,SLIP,,,$0.01,0,Negative or zero quantity
+11/06/2023,11/06/2023,11/06/2023,ARKF,Stock Lending,SLIP,,,$0.01,0,Negative or zero quantity
+11/06/2023,11/06/2023,11/06/2023,ARKG,Stock Lending,SLIP,,,$0.01,0,Negative or zero quantity
+11/06/2023,11/06/2023,11/06/2023,ARKK,Stock Lending,SLIP,,,$0.01,0,Negative or zero quantity
+10/31/2023,10/31/2023,10/31/2023,QQQ,Cash Div: R/D 2023-09-19 P/D 2023-10-31 - 0.26542 shares at 0.53555,CDIV,,,$0.14,0,Negative or zero quantity
+10/17/2023,10/17/2023,10/19/2023,VOO,"Vanguard S&P 500 ETF
+CUSIP: 922908363",Sell,0.000299,$400.08,$0.12,-0.000299,Negative or zero quantity
+10/17/2023,10/17/2023,10/19/2023,VOO,"Vanguard S&P 500 ETF
+CUSIP: 922908363",Sell,3.0,$400.08,"$1,200.23",-3,Negative or zero quantity
+10/17/2023,10/17/2023,10/19/2023,VOO,"Vanguard S&P 500 ETF
+CUSIP: 922908363",Sell,0.196166,$400.12,$78.49,-0.196166,Negative or zero quantity
+10/06/2023,10/06/2023,10/06/2023,SUSC,Cash Div: R/D 2023-10-03 P/D 2023-10-06 - 3.337815 shares at 0.073424,CDIV,,,$0.25,0,Negative or zero quantity
+10/06/2023,10/06/2023,10/06/2023,MBB,Cash Div: R/D 2023-10-03 P/D 2023-10-06 - 0.804376 shares at 0.290368,CDIV,,,$0.23,0,Negative or zero quantity
+10/06/2023,10/06/2023,10/06/2023,SUSB,Cash Div: R/D 2023-10-03 P/D 2023-10-06 - 3.175768 shares at 0.057653,CDIV,,,$0.18,0,Negative or zero quantity
+10/06/2023,10/06/2023,10/06/2023,TLT,Cash Div: R/D 2023-10-03 P/D 2023-10-06 - 12.199459 shares at 0.280014,CDIV,,,$3.42,0,Negative or zero quantity
+10/06/2023,10/06/2023,10/06/2023,SUSC,Stock Lending,SLIP,,,$0.01,0,Negative or zero quantity
+10/06/2023,10/06/2023,10/06/2023,AVEM,Stock Lending,SLIP,,,$0.33,0,Negative or zero quantity
+10/06/2023,10/06/2023,10/06/2023,ARKF,Stock Lending,SLIP,,,$0.01,0,Negative or zero quantity
+10/06/2023,10/06/2023,10/06/2023,VOO,Stock Lending,SLIP,,,$0.01,0,Negative or zero quantity
+10/06/2023,10/06/2023,10/06/2023,IJR,Stock Lending,SLIP,,,$0.01,0,Negative or zero quantity
+10/06/2023,10/06/2023,10/06/2023,INDA,Stock Lending,SLIP,,,$0.01,0,Negative or zero quantity
+10/06/2023,10/06/2023,10/06/2023,XLRE,Stock Lending,SLIP,,,$0.01,0,Negative or zero quantity
+10/06/2023,10/06/2023,10/06/2023,TLT,Stock Lending,SLIP,,,$0.01,0,Negative or zero quantity
+10/06/2023,10/06/2023,10/06/2023,MCHI,Stock Lending,SLIP,,,$0.01,0,Negative or zero quantity
+10/06/2023,10/06/2023,10/06/2023,ARKW,Stock Lending,SLIP,,,$0.01,0,Negative or zero quantity
+10/06/2023,10/06/2023,10/06/2023,ARKG,Stock Lending,SLIP,,,$0.01,0,Negative or zero quantity
+10/06/2023,10/06/2023,10/06/2023,ARKK,Stock Lending,SLIP,,,$0.01,0,Negative or zero quantity
+10/03/2023,10/03/2023,10/03/2023,VOO,Cash Div: R/D 2023-09-29 P/D 2023-10-03 - 50.485999 shares at 1.4925,CDIV,,,$75.35,0,Negative or zero quantity
+10/02/2023,10/02/2023,10/02/2023,IJR,Cash Div: R/D 2023-09-27 P/D 2023-10-02 - 20.070687 shares at 0.459184,CDIV,,,$9.22,0,Negative or zero quantity
+9/27/2023,9/27/2023,9/27/2023,PBR.A,Sponsored ADR: Agency Processing Fee at $0.08,DFEE,,,($0.08),0,Negative or zero quantity
+9/27/2023,9/27/2023,9/27/2023,PBR.A,Cash Div: R/D 2023-06-14 P/D 2023-09-27 - 16.866411 shares at 0.3897536,CDIV,,,$6.57,0,Negative or zero quantity
+9/21/2023,9/21/2023,9/21/2023,XLRE,Cash Div: R/D 2023-09-19 P/D 2023-09-21 - 65.329851 shares at 0.291033,CDIV,,,$19.01,0,Negative or zero quantity
+09/08/2023,09/08/2023,09/08/2023,MBB,Cash Div: R/D 2023-09-05 P/D 2023-09-08 - 0.80206 shares at 0.264039,CDIV,,,$0.21,0,Negative or zero quantity
+09/08/2023,09/08/2023,09/08/2023,TLT,Cash Div: R/D 2023-09-05 P/D 2023-09-08 - 12.162016 shares at 0.288579,CDIV,,,$3.51,0,Negative or zero quantity
+09/08/2023,09/08/2023,09/08/2023,SUSB,Cash Div: R/D 2023-09-05 P/D 2023-09-08 - 3.167799 shares at 0.059396,CDIV,,,$0.19,0,Negative or zero quantity
+09/08/2023,09/08/2023,09/08/2023,SUSC,Cash Div: R/D 2023-09-05 P/D 2023-09-08 - 3.326077 shares at 0.076913,CDIV,,,$0.26,0,Negative or zero quantity
+09/08/2023,09/08/2023,09/08/2023,IJR,Stock Lending,SLIP,,,$0.01,0,Negative or zero quantity
+09/08/2023,09/08/2023,09/08/2023,MCHI,Stock Lending,SLIP,,,$0.01,0,Negative or zero quantity
+09/08/2023,09/08/2023,09/08/2023,SUSB,Stock Lending,SLIP,,,$0.01,0,Negative or zero quantity
+09/08/2023,09/08/2023,09/08/2023,XLRE,Stock Lending,SLIP,,,$0.01,0,Negative or zero quantity
+09/08/2023,09/08/2023,09/08/2023,AVEM,Stock Lending,SLIP,,,$0.72,0,Negative or zero quantity
+09/08/2023,09/08/2023,09/08/2023,SUSC,Stock Lending,SLIP,,,$0.01,0,Negative or zero quantity
+09/08/2023,09/08/2023,09/08/2023,INDA,Stock Lending,SLIP,,,$0.01,0,Negative or zero quantity
+09/08/2023,09/08/2023,09/08/2023,ARKF,Stock Lending,SLIP,,,$0.01,0,Negative or zero quantity
+09/08/2023,09/08/2023,09/08/2023,TLT,Stock Lending,SLIP,,,$0.01,0,Negative or zero quantity
+09/08/2023,09/08/2023,09/08/2023,ARKQ,Stock Lending,SLIP,,,$0.01,0,Negative or zero quantity
+09/08/2023,09/08/2023,09/08/2023,ARKK,Stock Lending,SLIP,,,$0.01,0,Negative or zero quantity
+09/08/2023,09/08/2023,09/08/2023,ARKG,Stock Lending,SLIP,,,$0.01,0,Negative or zero quantity
+09/08/2023,09/08/2023,09/08/2023,ARKW,Stock Lending,SLIP,,,$0.01,0,Negative or zero quantity
+8/25/2023,8/25/2023,8/25/2023,PBR.A,Cash Div: R/D 2023-06-14 P/D 2023-08-25 - 16.866411 shares at 0.2683913,CDIV,,,$4.53,0,Negative or zero quantity
+8/25/2023,8/25/2023,8/25/2023,PBR.A,Foreign Tax Witholding at $0.68,DTAX,,,($0.68),0,Negative or zero quantity
+8/25/2023,8/25/2023,8/25/2023,PBR.A,Cash Div: R/D 2023-06-14 P/D 2023-08-25 - 16.866411 shares at 0.1116658,CDIV,,,$1.88,0,Negative or zero quantity
+8/25/2023,8/25/2023,8/25/2023,PBR.A,Sponsored ADR: Agency Processing Fee at $0.08,DFEE,,,($0.08),0,Negative or zero quantity
+08/07/2023,08/07/2023,08/07/2023,SUSB,Cash Div: R/D 2023-08-02 P/D 2023-08-07 - 3.160293 shares at 0.058374,CDIV,,,$0.18,0,Negative or zero quantity
+08/07/2023,08/07/2023,08/07/2023,MBB,Cash Div: R/D 2023-08-02 P/D 2023-08-07 - 0.799673 shares at 0.275881,CDIV,,,$0.22,0,Negative or zero quantity
+08/07/2023,08/07/2023,08/07/2023,SUSC,Cash Div: R/D 2023-08-02 P/D 2023-08-07 - 3.314942 shares at 0.075274,CDIV,,,$0.25,0,Negative or zero quantity
+08/07/2023,08/07/2023,08/07/2023,TLT,Cash Div: R/D 2023-08-02 P/D 2023-08-07 - 12.127576 shares at 0.275282,CDIV,,,$3.34,0,Negative or zero quantity
+08/07/2023,08/07/2023,08/07/2023,VOO,Stock Lending,SLIP,,,$0.01,0,Negative or zero quantity
+08/07/2023,08/07/2023,08/07/2023,IJR,Stock Lending,SLIP,,,$0.01,0,Negative or zero quantity
+08/07/2023,08/07/2023,08/07/2023,ARKF,Stock Lending,SLIP,,,$0.01,0,Negative or zero quantity
+08/07/2023,08/07/2023,08/07/2023,INDA,Stock Lending,SLIP,,,$0.01,0,Negative or zero quantity
+08/07/2023,08/07/2023,08/07/2023,MCHI,Stock Lending,SLIP,,,$0.01,0,Negative or zero quantity
+08/07/2023,08/07/2023,08/07/2023,SUSB,Stock Lending,SLIP,,,$0.01,0,Negative or zero quantity
+08/07/2023,08/07/2023,08/07/2023,AVEM,Stock Lending,SLIP,,,$0.45,0,Negative or zero quantity
+08/07/2023,08/07/2023,08/07/2023,SUSC,Stock Lending,SLIP,,,$0.01,0,Negative or zero quantity
+08/07/2023,08/07/2023,08/07/2023,ARKG,Stock Lending,SLIP,,,$0.01,0,Negative or zero quantity
+08/07/2023,08/07/2023,08/07/2023,ARKK,Stock Lending,SLIP,,,$0.01,0,Negative or zero quantity
+08/07/2023,08/07/2023,08/07/2023,ARKW,Stock Lending,SLIP,,,$0.01,0,Negative or zero quantity
+07/12/2023,07/12/2023,07/12/2023,,Interest on Contribution (IRA Match),MTCH,,,$6.02,0,Negative or zero quantity
+07/10/2023,07/10/2023,07/10/2023,TLT,Cash Div: R/D 2023-07-05 P/D 2023-07-10 - 12.093828 shares at 0.277716,CDIV,,,$3.36,0,Negative or zero quantity
+07/10/2023,07/10/2023,07/10/2023,MBB,Cash Div: R/D 2023-07-05 P/D 2023-07-10 - 0.797391 shares at 0.264112,CDIV,,,$0.21,0,Negative or zero quantity
+07/10/2023,07/10/2023,07/10/2023,SUSB,Cash Div: R/D 2023-07-05 P/D 2023-07-10 - 3.15274 shares at 0.056924,CDIV,,,$0.18,0,Negative or zero quantity
+07/10/2023,07/10/2023,07/10/2023,SUSC,Cash Div: R/D 2023-07-05 P/D 2023-07-10 - 3.304252 shares at 0.072359,CDIV,,,$0.24,0,Negative or zero quantity
+07/10/2023,07/10/2023,07/10/2023,XLRE,Stock Lending,SLIP,,,$0.01,0,Negative or zero quantity
+07/10/2023,07/10/2023,07/10/2023,VOO,Stock Lending,SLIP,,,$0.01,0,Negative or zero quantity
+07/10/2023,07/10/2023,07/10/2023,AVEM,Stock Lending,SLIP,,,$0.48,0,Negative or zero quantity
+07/10/2023,07/10/2023,07/10/2023,ARKF,Stock Lending,SLIP,,,$0.01,0,Negative or zero quantity
+07/10/2023,07/10/2023,07/10/2023,TLT,Stock Lending,SLIP,,,$0.01,0,Negative or zero quantity
+07/10/2023,07/10/2023,07/10/2023,INDA,Stock Lending,SLIP,,,$0.01,0,Negative or zero quantity
+07/10/2023,07/10/2023,07/10/2023,MCHI,Stock Lending,SLIP,,,$0.01,0,Negative or zero quantity
+07/10/2023,07/10/2023,07/10/2023,ARKG,Stock Lending,SLIP,,,$0.01,0,Negative or zero quantity
+07/10/2023,07/10/2023,07/10/2023,ARKK,Stock Lending,SLIP,,,$0.01,0,Negative or zero quantity
+07/10/2023,07/10/2023,07/10/2023,IJR,Stock Lending,SLIP,,,$0.01,0,Negative or zero quantity
+07/10/2023,07/10/2023,07/10/2023,SUSB,Stock Lending,SLIP,,,$0.01,0,Negative or zero quantity
+07/10/2023,07/10/2023,07/10/2023,ARKW,Stock Lending,SLIP,,,$0.01,0,Negative or zero quantity
+07/10/2023,07/10/2023,07/10/2023,SUSC,Stock Lending,SLIP,,,$0.01,0,Negative or zero quantity
+07/10/2023,07/10/2023,07/10/2023,ARKQ,Stock Lending,SLIP,,,$0.01,0,Negative or zero quantity
+07/05/2023,07/05/2023,07/05/2023,VOO,Cash Div: R/D 2023-06-30 P/D 2023-07-05 - 50.288879 shares at 1.5762,CDIV,,,$79.27,0,Negative or zero quantity
+6/23/2023,6/23/2023,6/23/2023,XLRE,Cash Div: R/D 2023-06-21 P/D 2023-06-23 - 60 shares at 0.35885,CDIV,,,$21.53,0,Negative or zero quantity
+6/23/2023,6/23/2023,6/23/2023,PBR.A,Cash Div: R/D 2023-05-01 P/D 2023-06-23 - 16 shares at 0.3831666,CDIV,,,$6.13,0,Negative or zero quantity
+6/23/2023,6/23/2023,6/23/2023,PBR.A,Foreign Tax Witholding at $0.05,DTAX,,,($0.05),0,Negative or zero quantity
+6/23/2023,6/23/2023,6/23/2023,PBR.A,Sponsored ADR: Agency Processing Fee at $0.08,DFEE,,,($0.08),0,Negative or zero quantity
+6/23/2023,6/23/2023,6/23/2023,AVEM,Cash Div: R/D 2023-06-21 P/D 2023-06-23 - 23 shares at 0.5818,CDIV,,,$13.38,0,Negative or zero quantity
+6/13/2023,6/13/2023,6/13/2023,IJR,Cash Div: R/D 2023-06-08 P/D 2023-06-13 - 20 shares at 0.351203,CDIV,,,$7.02,0,Negative or zero quantity
+6/13/2023,6/13/2023,6/13/2023,INDA,Cash Div: R/D 2023-06-08 P/D 2023-06-13 - 31 shares at 0.080071,CDIV,,,$2.48,0,Negative or zero quantity
+6/13/2023,6/13/2023,6/13/2023,MCHI,Cash Div: R/D 2023-06-08 P/D 2023-06-13 - 20 shares at 0.337912,CDIV,,,$6.76,0,Negative or zero quantity
+6/13/2023,6/13/2023,6/13/2023,MCHI,Cash Div: R/D 2023-06-08 P/D 2023-06-13 - 20 shares at 0.091277,CDIV,,,$1.83,0,Negative or zero quantity
+06/07/2023,06/07/2023,06/07/2023,SUSB,Cash Div: R/D 2023-06-02 P/D 2023-06-07 - 3.145628 shares at 0.055614,CDIV,,,$0.17,0,Negative or zero quantity
+06/07/2023,06/07/2023,06/07/2023,SUSC,Cash Div: R/D 2023-06-02 P/D 2023-06-07 - 3.293591 shares at 0.072897,CDIV,,,$0.24,0,Negative or zero quantity
+06/07/2023,06/07/2023,06/07/2023,TLT,Cash Div: R/D 2023-06-02 P/D 2023-06-07 - 12.061402 shares at 0.273047,CDIV,,,$3.29,0,Negative or zero quantity
+06/07/2023,06/07/2023,06/07/2023,MBB,Cash Div: R/D 2023-06-02 P/D 2023-06-07 - 0.795146 shares at 0.269256,CDIV,,,$0.21,0,Negative or zero quantity
+06/07/2023,06/07/2023,06/07/2023,XLRE,Stock Lending,SLIP,,,$0.01,0,Negative or zero quantity
+06/07/2023,06/07/2023,06/07/2023,MCHI,Stock Lending,SLIP,,,$0.01,0,Negative or zero quantity
+06/07/2023,06/07/2023,06/07/2023,SUSB,Stock Lending,SLIP,,,$0.01,0,Negative or zero quantity
+06/07/2023,06/07/2023,06/07/2023,SUSC,Stock Lending,SLIP,,,$0.01,0,Negative or zero quantity
+06/07/2023,06/07/2023,06/07/2023,INDA,Stock Lending,SLIP,,,$0.01,0,Negative or zero quantity
+06/07/2023,06/07/2023,06/07/2023,AVEM,Stock Lending,SLIP,,,$0.72,0,Negative or zero quantity
+06/07/2023,06/07/2023,06/07/2023,ARKF,Stock Lending,SLIP,,,$0.01,0,Negative or zero quantity
+06/07/2023,06/07/2023,06/07/2023,ARKG,Stock Lending,SLIP,,,$0.01,0,Negative or zero quantity
+06/07/2023,06/07/2023,06/07/2023,ARKK,Stock Lending,SLIP,,,$0.01,0,Negative or zero quantity
+06/07/2023,06/07/2023,06/07/2023,ARKW,Stock Lending,SLIP,,,$0.01,0,Negative or zero quantity
+06/07/2023,06/07/2023,06/07/2023,IJR,Stock Lending,SLIP,,,$0.01,0,Negative or zero quantity
+5/26/2023,5/26/2023,5/26/2023,PBR.A,Foreign Tax Witholding at $0.06,DTAX,,,($0.06),0,Negative or zero quantity
+5/26/2023,5/26/2023,5/26/2023,PBR.A,Cash Div: R/D 2023-05-01 P/D 2023-05-26 - 16 shares at 0.027161,CDIV,,,$0.43,0,Negative or zero quantity
+5/26/2023,5/26/2023,5/26/2023,PBR.A,Cash Div: R/D 2023-05-01 P/D 2023-05-26 - 16 shares at 0.549612,CDIV,,,$8.79,0,Negative or zero quantity
+5/26/2023,5/26/2023,5/26/2023,PBR.A,Sponsored ADR: Agency Processing Fee at $0.08,DFEE,,,($0.08),0,Negative or zero quantity
+05/05/2023,05/05/2023,05/05/2023,SUSC,Cash Div: R/D 2023-05-02 P/D 2023-05-05 - 3.283042 shares at 0.072365,CDIV,,,$0.24,0,Negative or zero quantity
+05/05/2023,05/05/2023,05/05/2023,TLT,Cash Div: R/D 2023-05-02 P/D 2023-05-05 - 12.030348 shares at 0.267995,CDIV,,,$3.22,0,Negative or zero quantity
+05/05/2023,05/05/2023,05/05/2023,SUSB,Cash Div: R/D 2023-05-02 P/D 2023-05-05 - 3.138572 shares at 0.054795,CDIV,,,$0.17,0,Negative or zero quantity
+05/05/2023,05/05/2023,05/05/2023,MBB,Cash Div: R/D 2023-05-02 P/D 2023-05-05 - 0.792925 shares at 0.259806,CDIV,,,$0.21,0,Negative or zero quantity
+05/05/2023,05/05/2023,05/05/2023,ARKG,Stock Lending,SLIP,,,$0.01,0,Negative or zero quantity
+05/05/2023,05/05/2023,05/05/2023,ARKF,Stock Lending,SLIP,,,$0.01,0,Negative or zero quantity
+05/05/2023,05/05/2023,05/05/2023,AVEM,Stock Lending,SLIP,,,$0.10,0,Negative or zero quantity
+05/05/2023,05/05/2023,05/05/2023,ARKW,Stock Lending,SLIP,,,$0.01,0,Negative or zero quantity
+05/05/2023,05/05/2023,05/05/2023,SUSB,Stock Lending,SLIP,,,$0.01,0,Negative or zero quantity
+05/05/2023,05/05/2023,05/05/2023,ARKK,Stock Lending,SLIP,,,$0.01,0,Negative or zero quantity
+05/05/2023,05/05/2023,05/05/2023,XLRE,Stock Lending,SLIP,,,$0.01,0,Negative or zero quantity
+05/05/2023,05/05/2023,05/05/2023,INDA,Stock Lending,SLIP,,,$0.01,0,Negative or zero quantity
+04/12/2023,04/12/2023,4/14/2023,PBR,"Petrobras
+CUSIP: 71654V408",Sell,5.817636,$11.69,$68.01,-5.817636,Negative or zero quantity
+04/11/2023,04/11/2023,04/11/2023,SUSB,Cash Div: R/D 2023-04-04 P/D 2023-04-10 - 3.131939 shares at 0.051088,CDIV,,,$0.16,0,Negative or zero quantity
+04/11/2023,04/11/2023,04/11/2023,SUSC,Cash Div: R/D 2023-04-04 P/D 2023-04-10 - 3.271334 shares at 0.081832,CDIV,,,$0.27,0,Negative or zero quantity
+04/11/2023,04/11/2023,04/11/2023,MBB,Cash Div: R/D 2023-04-04 P/D 2023-04-10 - 0.790819 shares at 0.251347,CDIV,,,$0.20,0,Negative or zero quantity
+04/11/2023,04/11/2023,04/11/2023,TLT,Cash Div: R/D 2023-04-04 P/D 2023-04-10 - 12 shares at 0.268755,CDIV,,,$3.23,0,Negative or zero quantity
+04/10/2023,04/10/2023,04/10/2023,INDA,Stock Lending,SLIP,,,$0.01,0,Negative or zero quantity
+04/10/2023,04/10/2023,04/10/2023,XLRE,Stock Lending,SLIP,,,$0.01,0,Negative or zero quantity
+04/10/2023,04/10/2023,04/10/2023,SUSB,Stock Lending,SLIP,,,$0.01,0,Negative or zero quantity
+04/10/2023,04/10/2023,04/10/2023,ARKK,Stock Lending,SLIP,,,$0.01,0,Negative or zero quantity
+04/10/2023,04/10/2023,04/10/2023,ARKG,Stock Lending,SLIP,,,$0.01,0,Negative or zero quantity
+04/10/2023,04/10/2023,04/10/2023,ARKF,Stock Lending,SLIP,,,$0.01,0,Negative or zero quantity
+04/04/2023,04/04/2023,04/04/2023,,Interest on Contribution (IRA Match),MTCH,,,$22.39,0,Negative or zero quantity
+04/04/2023,04/04/2023,04/04/2023,,Interest on Contribution (IRA Match),MTCH,,,$236.72,0,Negative or zero quantity
+3/29/2023,3/29/2023,3/29/2023,VOO,Cash Div: R/D 2023-03-27 P/D 2023-03-29 - 50.087984 shares at 1.4874,CDIV,,,$74.50,0,Negative or zero quantity
+03/07/2023,03/07/2023,03/07/2023,SUSC,Cash Div: R/D 2023-03-02 P/D 2023-03-07 - 3.271334 shares at 0.069333,CDIV,,,$0.23,0,Negative or zero quantity
+03/07/2023,03/07/2023,03/07/2023,SUSB,Cash Div: R/D 2023-03-02 P/D 2023-03-07 - 3.131939 shares at 0.050362,CDIV,,,$0.16,0,Negative or zero quantity
+03/07/2023,03/07/2023,03/07/2023,MBB,Cash Div: R/D 2023-03-02 P/D 2023-03-07 - 0.790819 shares at 0.250495,CDIV,,,$0.20,0,Negative or zero quantity
+03/06/2023,03/06/2023,03/06/2023,SUSB,Stock Lending,SLIP,,,$0.01,0,Negative or zero quantity
+2/16/2023,2/16/2023,2/21/2023,VOO,"Vanguard S&P 500 ETF
+CUSIP: 922908363",Sell,0.178389,$375.77,$67.03,-0.178389,Negative or zero quantity
+2/16/2023,2/16/2023,2/21/2023,VOO,"Vanguard S&P 500 ETF
+CUSIP: 922908363",Sell,7.9e-05,$375.77,$0.03,-0.000079,Negative or zero quantity
+02/08/2023,02/08/2023,02/08/2023,,Interest on Contribution (IRA Match),MTCH,,,$4.23,0,Negative or zero quantity
+02/08/2023,02/08/2023,02/08/2023,,Current Year Contribution,CFIR,,,$423.00,0,Negative or zero quantity
+02/07/2023,02/07/2023,02/07/2023,SUSB,Cash Div: R/D 2023-02-02 P/D 2023-02-07 - 1.050199 shares at 0.048208,CDIV,,,$0.05,0,Negative or zero quantity
+02/07/2023,02/07/2023,02/07/2023,SUSC,Cash Div: R/D 2023-02-02 P/D 2023-02-07 - 1.107665 shares at 0.058935,CDIV,,,$0.07,0,Negative or zero quantity
+02/07/2023,02/07/2023,02/07/2023,MBB,Cash Div: R/D 2023-02-02 P/D 2023-02-07 - 0.26583 shares at 0.243076,CDIV,,,$0.06,0,Negative or zero quantity
+02/07/2023,02/07/2023,02/07/2023,,Current Year Contribution,CFIR,,,$380.00,0,Negative or zero quantity
+02/07/2023,02/07/2023,02/07/2023,,Interest on Contribution (IRA Match),MTCH,,,$3.80,0,Negative or zero quantity
+02/06/2023,02/06/2023,02/06/2023,SUSB,Stock Lending,SLIP,,,$0.01,0,Negative or zero quantity
+12/19/2022,12/19/2022,12/19/2022,,Current Year Contribution,CFIR,,,"$2,000.00",0,Negative or zero quantity
+12/19/2022,12/19/2022,12/19/2022,,Interest on Contribution (IRA Match),MTCH,,,$20.00,0,Negative or zero quantity
