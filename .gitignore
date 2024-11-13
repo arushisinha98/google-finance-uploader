@@ -1,6 +1,5 @@
 # secrets
 .env
-data/
 
 # environment
 env/
