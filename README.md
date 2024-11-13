@@ -19,6 +19,6 @@ How it works:
 
 
 Tips:
-- Ensure that buys are denoted with +ve quantities and sells are denoted by -ve quantities. Sells will be skipped.
+- Ensure that buys are denoted by +ve quantities and sells are denoted by -ve quantities.
 - Check that all the instruments you wish to add are available on Google Finance.
 - For international stock exchanges, include the currency code in the instrument (e.g. instead of `D05`, try `D05 SG` or instead of `2801` try `2801 HK`) to ensure that the Google Finance dropdown is more likely to pick the stock you intended.
