@@ -3,13 +3,13 @@
 Migrate your trades to Google Finance to track your portfolios in one place!
 
 1. Create a virtual environment
-   \n`$ python -m venv env`
+   `$ python -m venv env`
 2. Activate the virtual environment
-   \n`$ source env/bin/activate`
+   `$ source env/bin/activate`
 3. Install all dependencies
-   \n`$ python -m pip install -r requirements.txt`
+   `$ python -m pip install -r requirements.txt`
 4. Run the script
-   \n`$ python main.py`
+   `$ python main.py`
 
 
 How it works:
