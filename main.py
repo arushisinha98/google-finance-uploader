@@ -1,84 +1,7 @@
-import os
 import pandas as pd
 from assistant import GoogleFinanceAutomator
-from datetime import datetime
-
-
-import os
-import pandas as pd
-from assistant import GoogleFinanceAutomator
-from datetime import datetime
-
-class UploadTracker:
-    def __init__(self, filename):
-        self.skipped_rows = []
-        self.failed_rows = []
-        self.filename = filename
-        
-    def add_skipped(self, row, reason):
-        """Track skipped transaction"""
-        self.skipped_rows.append({**row, 'reason': reason})
-        
-    def add_failed(self, row, error):
-        """Track failed transaction"""
-        self.failed_rows.append({**row, 'error': str(error)})
-        
-    def save_report(self):
-        """Save skipped and failed transactions to CSV"""
-        timestamp = datetime.now().strftime('%Y%m%d')
-        
-        if self.skipped_rows:
-            skipped_df = pd.DataFrame(self.skipped_rows)
-            skipped_df.to_csv(f'{self.filename}-SKIPPED-{timestamp}Upload.csv', index=False)
-            print(f"\nSkipped transactions saved to: {self.filename}-SKIPPED_{timestamp}Upload.csv")
-            
-        if self.failed_rows:
-            failed_df = pd.DataFrame(self.failed_rows)
-            failed_df.to_csv(f'{self.filename}-FAILED-{timestamp}Upload.csv', index=False)
-            print(f"Failed transactions saved to: {self.filename}-FAILED-{timestamp}Upload.csv")
-
-
-def get_excel_files(directory='data'):
-    """Recursively find all Excel files in directory and subdirectories"""
-    excel_files = []
-    for root, _, files in os.walk(directory):
-        for file in files:
-            if file.endswith(('.xlsx', '.csv')):
-                excel_files.append(os.path.join(root, file))
-    return excel_files
-
-def display_files(files):
-    """Display files with numbering"""
-    print("\nAvailable files:")
-    for i, file in enumerate(files, 1):
-        print(f"{i}. {file}")
-
-def verify_column(df, column_name):
-    """Verify if column exists in dataframe"""
-    if not column_name:
-        return True  # Empty column name is valid for optional fields
-    if column_name not in df.columns:
-        print(f"Error: Column '{column_name}' not found in file")
-        return False
-    return True
-
-def get_column_input(df, column_type, optional=False):
-    """Get and verify column input from user"""
-    while True:
-        prompt = f"Select the {column_type} column"
-        if optional:
-            prompt += " (leave empty if not in data)"
-        prompt += ": "
-        
-        column = input(prompt).strip()
-        
-        if optional and not column:
-            return None
-            
-        if verify_column(df, column):
-            return column
-
-        print("Please try again.")
+from tracker import UploadTracker
+from data_utilities import get_excel_files, display_files, get_column_input
 
 
 def main():
@@ -119,7 +42,7 @@ def main():
     date_col = get_column_input(df, "PURCHASE DATE")
     price_col = get_column_input(df, "PURCHASE PRICE", optional=True)
 
-    if not all([ticker_col, quantity_col, date_col]):  # price_col is optional
+    if not all([ticker_col, quantity_col, date_col]):  # price_col is optional as it can be auto-populated on Google Finance UI
         print("Required columns not found. Exiting.")
         return
     
