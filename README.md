@@ -15,7 +15,7 @@ How it works:
 - The script will first read all the excel or csv files in `data/` and ask you to pick one to upload.
 - The script will ask you which columns contain the transaction date, instrument, quantity, and (optionally) transaction price information. Note that transaction price is not necessary as this field can be auto-populated by Google Finance.
 - The script will ask you to log into Google Finance and choose a portfolio to add the transactions into.
-- Once confirmed, the script will iteratively add all the transactions in the file to your Google Finance Portfolio. Any skips or failures are logged and output as separate csv files along with the reason. Note that Google Finance does not currently support fractional sells.
+- Once confirmed, the script will iteratively add all the transactions in the file to your Google Finance Portfolio. Any skips or failures are logged and output as separate csv files along with the reason. Note that Google Finance does not currently support fractional sells so these will be skipped by the script.
 
 
 Tips:
